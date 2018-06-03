@@ -3,7 +3,7 @@ layout: portfolioItem
 title: Andreas Vollenweider
 permalink: /portfolio/tose-proeski/
 thumbnail: /assets/img/production_mixing/tose-proeski.jpeg
-category: production_mixing
+category: production_mixing songwriting_collaborations
 date: 20 July 2014
 homepage: true
 homepageOrder: 13

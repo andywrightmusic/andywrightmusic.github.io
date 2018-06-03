@@ -18,19 +18,9 @@ permalink: /:title/
 collections:
   posts:
     output: true
-  categories:
-    output: true
-  commercials:
+  portfolio:
     output: true
   portfolio_categories:
-    output: true
-  production_mixing:
-    output: true
-  programming:
-    output: true
-  songwriting_collaborations:
-    output: true
-  soundtracks:
     output: true
 
 collections_dir: collections

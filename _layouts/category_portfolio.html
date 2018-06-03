@@ -2,7 +2,14 @@
 layout: compress
 ---
 
-{% assign category_items = site[ page.class ] %}
+{% assign category_items = "" | split: "" %}
+
+{% for item in site.portfolio %}
+    {% if item.category contains page.class %}
+        {% assign category_items = category_items | push: item %}
+    {% endif %}
+{% endfor %}
+
 {% assign sorted = category_items | sort: 'date' | reverse %}
 
 {% include head.html %}
@@ -36,8 +43,6 @@ layout: compress
                         </div>
 
                     {% endfor %}
-
-
 
                 </div>
 

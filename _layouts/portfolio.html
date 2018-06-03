@@ -2,30 +2,6 @@
 layout: compress
 ---
 
-{% assign portfolio_items = "" | split: "" %}
-
-{% for item in site.production_mixing %}
-    {% assign portfolio_items = portfolio_items | push: item %}
-{% endfor %}
-
-{% for item in site.songwriting_collaboration %}
-    {% assign portfolio_items = portfolio_items | push: item %}
-{% endfor %}
-
-{% for item in site.soundtracks %}
-    {% assign portfolio_items = portfolio_items | push: item %}
-{% endfor %}
-
-{% for item in site.commercials %}
-    {% assign portfolio_items = portfolio_items | push: item %}
-{% endfor %}
-
-{% for item in site.programming %}
-    {% assign portfolio_items = portfolio_items | push: item %}
-{% endfor %}
-
-
-
 {% include head.html %}
 
 <body>
@@ -52,11 +28,20 @@ layout: compress
                         <li><a href="#" data-filter=".{{categoryType}}">{{ collection.title }}</a></li>
                     {% endfor %}
                 </ul>
+
                 <div class="portfolio-box iso-call">
 
-                    {% for item in portfolio_items %}
+                    {% for item in site.portfolio %}
 
-                        {% assign itemCategory = portfolioCategoryArray | where:"class", item.category | first %}
+                        {% assign itemCategories = item.category | split: " " %}
+
+                        {% assign categoryArray = "" | split: "" %}
+
+
+                        {% for cat in itemCategories %}
+                            {% assign itemCategory = portfolioCategoryArray | where:"class", cat | first %}
+                            {% assign categoryArray = categoryArray | push: itemCategory %}
+                        {% endfor %}
 
                         <div class="project-post {{ item.category }}">
                             <img src="{{ item.thumbnail }}" alt="{{ item.title }}" />
@@ -64,7 +49,10 @@ layout: compress
                                 <div class="inner-hover">
                                     <h2><a href="{{ item.permalink }}">{{ item.title }}</a></h2>
                                     <span>
-                                        <a href="{{ itemCategory.permalink }}">{{ itemCategory.title }}</a>
+                                        {% for catItem in categoryArray %}
+                                            <a href="{{ catItem.permalink }}">{{ catItem.title }}</a>
+                                            <br />
+                                        {% endfor %}
                                     </span>
                                 </div>
                             </div>
@@ -72,8 +60,6 @@ layout: compress
 
 
                     {% endfor %}
-
-
 
                 </div>
 

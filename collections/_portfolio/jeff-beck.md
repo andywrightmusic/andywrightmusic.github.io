@@ -3,7 +3,7 @@ layout: portfolioItem
 title: Jeff Beck
 permalink: /portfolio/jeff-beck/
 thumbnail: /assets/img/production_mixing/JeffBeck_YouHadItComing.jpeg
-category: production_mixing
+category: production_mixing songwriting_collaborations
 date: 20 July 2014
 homepage: true
 homepageOrder: 6
