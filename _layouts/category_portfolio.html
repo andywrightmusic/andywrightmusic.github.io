@@ -1,0 +1,58 @@
+---
+layout: compress
+---
+
+{% assign category_items = site[ page.class ] %}
+{% assign sorted = category_items | sort: 'date' | reverse %}
+
+{% include head.html %}
+
+<body>
+
+    <!-- Container -->
+    <div id="container">
+    
+        {% include header.html %}
+
+        <div id="content">
+
+            <!-- portfolio-section -->
+
+            <section class="portfolio-section">
+
+                <h2>{{ page.title }}</h2>
+
+                <div class="portfolio-box iso-call">
+
+                    {% for item in sorted %}
+
+                        <div class="project-post {{ item.category }}">
+                            <img src="{{ item.thumbnail }}" alt="{{ item.title }}" />
+                            <div class="hover-box">
+                                <div class="inner-hover">
+                                    <h2><a href="{{ item.permalink }}">{{ item.title }}</a></h2>
+                                </div>
+                            </div>
+                        </div>
+
+                    {% endfor %}
+
+
+
+                </div>
+
+            </section>
+
+            <!-- end portfolio-section -->
+
+        </div>
+        <!-- End content -->
+
+    </div>
+    <!-- End Container -->
+
+    {% include beforeBodyEnd.html %}
+
+</body>
+
+</html>

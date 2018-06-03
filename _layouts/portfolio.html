@@ -1,0 +1,94 @@
+---
+layout: compress
+---
+
+{% assign portfolio_items = "" | split: "" %}
+
+{% for item in site.production_mixing %}
+    {% assign portfolio_items = portfolio_items | push: item %}
+{% endfor %}
+
+{% for item in site.songwriting_collaboration %}
+    {% assign portfolio_items = portfolio_items | push: item %}
+{% endfor %}
+
+{% for item in site.soundtracks %}
+    {% assign portfolio_items = portfolio_items | push: item %}
+{% endfor %}
+
+{% for item in site.commercials %}
+    {% assign portfolio_items = portfolio_items | push: item %}
+{% endfor %}
+
+{% for item in site.programming %}
+    {% assign portfolio_items = portfolio_items | push: item %}
+{% endfor %}
+
+
+
+{% include head.html %}
+
+<body>
+
+    <!-- Container -->
+    <div id="container">
+    
+        {% include header.html %}
+
+        <div id="content">
+
+            <!-- portfolio-section -->
+
+            <section class="portfolio-section">
+
+                <h2>{{ page.title }}</h2>
+
+                {% assign portfolioCategoryArray = site.portfolio_categories | sort: 'order' %}
+
+                <ul class="filter">
+                    <li><a class="active" href="#" data-filter="*">all</a></li>
+                    {% for collection in portfolioCategoryArray %}
+                        {% assign categoryType = collection.class | downcase %}
+                        <li><a href="#" data-filter=".{{categoryType}}">{{ collection.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                <div class="portfolio-box iso-call">
+
+                    {% for item in portfolio_items %}
+
+                        {% assign itemCategory = portfolioCategoryArray | where:"class", item.category | first %}
+
+                        <div class="project-post {{ item.category }}">
+                            <img src="{{ item.thumbnail }}" alt="{{ item.title }}" />
+                            <div class="hover-box">
+                                <div class="inner-hover">
+                                    <h2><a href="{{ item.permalink }}">{{ item.title }}</a></h2>
+                                    <span>
+                                        <a href="{{ itemCategory.permalink }}">{{ itemCategory.title }}</a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    {% endfor %}
+
+
+
+                </div>
+
+            </section>
+
+            <!-- end portfolio-section -->
+
+        </div>
+        <!-- End content -->
+
+    </div>
+    <!-- End Container -->
+
+    {% include beforeBodyEnd.html %}
+
+</body>
+
+</html>

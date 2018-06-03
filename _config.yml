@@ -1,0 +1,49 @@
+title: Andy Wright
+email: andymwright@mac.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Andy Wright is a London based music producer & songwriter
+
+keywords:
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.andywrightmusic.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+permalink: /:title/
+
+collections:
+  posts:
+    output: true
+  categories:
+    output: true
+  commercials:
+    output: true
+  portfolio_categories:
+    output: true
+  production_mixing:
+    output: true
+  programming:
+    output: true
+  songwriting_collaborations:
+    output: true
+  soundtracks:
+    output: true
+
+collections_dir: collections
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

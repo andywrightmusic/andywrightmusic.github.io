@@ -1,0 +1,6 @@
+- name: Artists
+  url: /artists
+- name: News
+  url: /news
+- name: Press &amp; Articles
+  url: /press-articles

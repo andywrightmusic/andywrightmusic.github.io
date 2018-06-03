@@ -1,0 +1,82 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<body>
+
+    <!-- Container -->
+    <div id="container">
+    
+        {% include header.html %}
+
+        <div id="content">
+
+            <!-- blog-section -->
+
+            <section class="blog-page-section single-post">
+                
+                <div id="container-fluid">
+
+                    <div class="row">
+
+                        <div class="col-md-8">
+
+                            <div class="blog-page-box">
+                                
+                                {% if page.leadImage %}
+                                <div class="single-image">
+                                    <img src="{{ page.leadImage }}" alt="{{ page.title }}" />
+                                </div>
+                                {% endif %}
+
+                                <div class="blog-post">
+
+                                    <div class="post-content">
+
+                                        <h2>{{ page.title }}</h2>
+
+                                        <ul class="post-meta">
+                                            <li>{{ page.date | date: '%d %B, %Y' }}</li>
+                                        </ul>
+
+                                        {{ page.content | markdownify }}
+
+                                        {% if page.youTubeVideoID %}
+                                            <div class='embed-container'>
+                                                <iframe src='https://www.youtube.com/embed/{{page.youTubeVideoID}}' frameborder='0' allowfullscreen></iframe>
+                                            </div>
+                                        {% endif %}
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            {% include share_box.html %}
+
+                        </div>
+
+                        {% include blog_sidebar.html %}
+
+                    </div>
+
+                </div>
+
+            </section>
+
+            <!-- end blog-section -->
+
+        </div>
+        <!-- End content -->
+
+    </div>
+    <!-- End Container -->
+
+    {% include beforeBodyEnd.html %}
+
+</body>
+
+</html>

@@ -1,0 +1,135 @@
+---
+layout: compress
+---
+
+{% assign home_items = "" | split: "" %}
+
+{% for item in site.production_mixing %}
+    {% if item.homepage == true %}
+        {% assign home_items = home_items | push: item %}
+    {% endif %}
+{% endfor %}
+
+{% for item in site.songwriting_collaboration %}
+    {% if item.homepage == true %}
+        {% assign home_items = home_items | push: item %}
+    {% endif %}
+{% endfor %}
+
+{% for item in site.soundtracks %}
+    {% if item.homepage == true %}
+        {% assign home_items = home_items | push: item %}
+    {% endif %}
+{% endfor %}
+
+{% for item in site.commercials %}
+    {% if item.homepage == true %}
+        {% assign home_items = home_items | push: item %}
+    {% endif %}
+{% endfor %}
+
+{% for item in site.programming %}
+    {% if item.homepage == true %}
+        {% assign home_items = home_items | push: item %}
+    {% endif %}
+{% endfor %}
+
+{% assign homeItemsArray = home_items | sort: 'homepageOrder' %}
+
+{% include head.html %}
+
+<body>
+
+    <!-- Container -->
+    <div id="container">
+	
+    	{% include header.html %}
+
+        <div id="content">
+
+            <section class="portfolio-section">
+
+                {% assign portfolioCategoryArray = site.portfolio_categories | sort: 'order' %}
+
+                <div class="portfolio-box">
+
+                    {% for item in homeItemsArray %}
+
+                        {% assign itemCategory = portfolioCategoryArray | where:"class", item.category | first %}
+
+                        <div class="project-post {{ item.category }} col-md-4">
+                            <img src="{{ item.thumbnail }}" alt="{{ item.title }}" />
+                            <div class="hover-box">
+                                <div class="inner-hover">
+                                    <h2><a href="{{ item.permalink }}">{{ item.title }}</a></h2>
+                                    <span>
+                                        <a href="{{ itemCategory.permalink }}">{{ itemCategory.title }}</a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    {% endfor %}
+
+                </div>
+
+            </section>
+
+            <section class="about-section">
+                
+                <div id="container">
+
+                    <div class="about-box">
+
+                        <div class="row">
+
+                            <div class="col-sm-4">
+
+                                <div class="about-post">
+                                    <h2>Biography</h2>
+                                    <p>Like many music industry movers and shakers, Andy Wright owes something of his success to a small ad in Melody Maker. Circa 1984...</p>
+                                    <p><a href="/bio">Read More</a></p>
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-4">
+
+                                <div class="about-post">
+                                    <h2>The Blog</h2>
+                                    <p>Get the latest news on events, projects, collaborations and sounds from Andy, and his team that make it happen, on his blog...</p>
+                                    <p><a href="/blog">Visit the blog</a></p>
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-4">
+
+                                <div class="about-post">
+                                    <h2>Contact</h2>
+                                    <p>If you are interested in working with Andy and his team then get in touch. Call or email about your project. Why not also follow him on twitter...</p>
+                                    <p><a href="/contact">Get in touch</a></p>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+        <!-- End content -->
+
+    </div>
+    <!-- End Container -->
+
+    {% include beforeBodyEnd.html %}
+
+</body>
+
+</html>

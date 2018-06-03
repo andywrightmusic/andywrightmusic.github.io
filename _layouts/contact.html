@@ -1,0 +1,45 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<body>
+
+    <!-- Container -->
+    <div id="container">
+    
+        {% include header.html %}
+
+        <div id="content">
+
+            <!-- contact-form-section -->
+
+            <section class="contact-form-section">
+
+                <h2>{{ page.title }}</h2>
+
+                <div id="container">
+                    <div class="contact-form-box">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                {{ page.content | markdownify }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- end contact-form-section -->
+
+        </div>
+        <!-- End content -->
+
+    </div>
+    <!-- End Container -->
+
+    {% include beforeBodyEnd.html %}
+
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<body>
+
+    <!-- Container -->
+    <div id="container">
+    
+        {% include header.html %}
+
+        <div id="content">
+
+            <!-- blog-section -->
+
+            <section class="blog-page-section single-post">
+                <div id="container-fluid">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="blog-page-box">
+                                <div class="blog-post">
+                                    <div class="post-content">
+                                        <h2>{{ page.title }}</h2>
+                                        <ul class="post-meta">
+                                            <li>{{ page.date | date: '%d %B, %Y' }}</li>
+                                        </ul>
+                                        {{ page.content | markdownify }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {% include blog_sidebar.html %}
+
+                    </div>
+                </div>
+            </section>
+
+            <!-- end blog-section -->
+
+        </div>
+        <!-- End content -->
+
+    </div>
+    <!-- End Container -->
+
+    {% include beforeBodyEnd.html %}
+
+</body>
+
+</html>
