@@ -12,22 +12,7 @@ sitemap:
       </url>
     {% endunless %}
   {% endfor %}
-  {% for page in site.leaders %}
-    <url>
-      <loc>{{ site.url }}{{ page.url }}</loc>
-    </url>
-  {% endfor %}
-  {% for page in site.projects %}
-    <url>
-      <loc>{{ site.url }}{{ page.url }}</loc>
-    </url>
-  {% endfor %}
-  {% for page in site.directors %}
-    <url>
-      <loc>{{ site.url }}{{ page.url }}</loc>
-    </url>
-  {% endfor %}
-  {% for page in site.advisors %}
+  {% for page in site.posts %}
     <url>
       <loc>{{ site.url }}{{ page.url }}</loc>
     </url>
