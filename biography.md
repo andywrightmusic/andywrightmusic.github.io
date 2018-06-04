@@ -3,6 +3,8 @@ title: Biography
 layout: about
 permalink: /bio/
 menuOrder: 2
+bannerHeader: About Andy
+bannerText: 
 ---
 
 Andy Wright caught his first break in the music industry back in the 1980s, fresh out of university. Landing a job driving equipment to the capitol’s top recording studios, it wasn’t long before he found himself in charge of setting up complex gear for baffled producers and bands.

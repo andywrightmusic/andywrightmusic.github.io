@@ -384,7 +384,7 @@ section.page-banner-section {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/1.jpg") center center no-repeat;
+  background: #111 url("../assets/img/banners/bio.jpg") center center no-repeat;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
