@@ -17,4 +17,14 @@ sitemap:
       <loc>{{ site.url }}{{ page.url }}</loc>
     </url>
   {% endfor %}
+  {% for page in site.portfolio %}
+    <url>
+      <loc>{{ site.url }}{{ page.url }}</loc>
+    </url>
+  {% endfor %}
+  {% for page in site.portfolio_categories %}
+    <url>
+      <loc>{{ site.url }}{{ page.url }}</loc>
+    </url>
+  {% endfor %}
 </urlset>

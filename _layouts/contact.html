@@ -17,17 +17,38 @@ layout: compress
 
             <section class="contact-form-section">
 
-                <h2>{{ page.title }}</h2>
+                <div class="container">
 
-                <div id="container">
                     <div class="contact-form-box">
+
                         <div class="row">
-                            <div class="col-sm-12">
-                                {{ page.content | markdownify }}
+
+                            <div class="col-sm-8">
+
+                                <h2>Get in touch</h2>
+
+                                {% include contact_form.html %}
+
                             </div>
+
+                            <div class="col-sm-4">
+
+                                <div class="info-box address">
+                                    <h2>Contact Details</h2>
+                                    <p>
+                                        <span aria-hidden="true" class="fa fa-envelope"></span>
+                                        andymwright@mac.com
+                                    </p>
+                                </div>
+
+                            </div>
+
                         </div>
+
                     </div>
+
                 </div>
+
             </section>
 
             <!-- end contact-form-section -->

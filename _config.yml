@@ -4,6 +4,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Andy Wright is a London based music producer & songwriter
 
 keywords:
+  - Andy Wright
+  - Music Producer
+  - songwriter
+  - London
+  - Simply Red
+  - Simple Minds
+  - commercials
+  - recording and production
+  - programming
+  - production and mixing
+  - soundtracks
+  - songwriting and collaborations
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.andywrightmusic.com" # the base hostname & protocol for your site, e.g. http://example.com

@@ -1,0 +1,37 @@
+<form 
+	id="contact-form" 
+	action="https://formspree.io/{{ site.email }}"
+	method="POST"
+	target="_blank">
+
+	<div class="row">
+
+		<div class="col-sm-6">
+			<input required name="name" id="name" type="text" placeholder="Name*">
+		</div>
+
+		<div class="col-sm-6">
+			<input required name="_replyto" id="_replyto" type="text" placeholder="Email*">
+		</div>
+
+	</div>
+
+	<input required name="_subject" id="subject" type="text" placeholder="Subject">  
+
+	<textarea required name="message" id="message" placeholder="Message*"></textarea>
+
+	<input type="submit" value="Send Message" />
+
+	<input 
+		type="text" 
+		name="_gotcha" 
+		style="display:none" />
+
+	<input 
+		type="hidden" 
+		name="_next" 
+		value="{{ site.url }}/thanks" />
+
+	
+
+</form>

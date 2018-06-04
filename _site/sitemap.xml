@@ -56,6 +56,8 @@
     
   
     
+  
+    
       <url>
         <loc>http://localhost:4000/feed.xml</loc>
       </url>
@@ -176,6 +178,312 @@
   
     <url>
       <loc>http://localhost:4000/tribute-to-tose-proeski/</loc>
+    </url>
+  
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/paparazzi/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/francoise-hardy/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/shakespears-sister/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/4-lions/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/after-the-sunset/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/alishas-attic/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/hanson/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/les-negresses-vertes/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/reef/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/the-klf/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/imogen-heap/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/jon-bon-jovi/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/massive-attack/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/sinead-oconnor/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/mr-bean/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/shallow-hal/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/saving-grace/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/dave-stewart-2/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/gianna-nannini-momo/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/mick-hucknall/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/andreas-vollenweider/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/annie-lennox/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/atomic-kitten-2/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/chico/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/chrissie-hynde-neil-young-session/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/diana-yukawa/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/etienne-daho/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/eurythmics/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/garry-christian/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/gianna-nannini/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/gibonni/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/good-size/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/help-for-haiti/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/imelda-may/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/jeff-beck/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/jimi-raine/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/lisa-stansfield/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/logo-feat-dawn-joseph/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/luciano-pavarotti/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/mcmahon/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/mercutio/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/mick-hucknall-american-soul/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/miel/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/natalie-imbruglia/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/nylon/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/peter-grant-3/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/purdy/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/s-club-7/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/sarah-cracknell/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/scarlette-fever/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/simple-minds/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/simply-red-big-love/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/soho-dolls/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/tom-jones/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/tose-proeski/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/transfer/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/keith-harkin-on-mercy-street/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/nell-bryden/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/sam-swallow-tbc/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/simple-minds-acoustic/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/aqua-drops-pinball/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/bisc-m-m/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/bmw-5-series-scales/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/dairylea-dunkers-nachos/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/dior/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/dunlop/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/jaguar-x-type-diesel/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/kellogs-special-k-bars/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/matalan/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/peugeot/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/portfolio/prudential/</loc>
+    </url>
+  
+  
+    <url>
+      <loc>http://localhost:4000/commercials</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/production-mixing</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/programming</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/songwriting-collaborations</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/soundtracks</loc>
     </url>
   
 </urlset>
