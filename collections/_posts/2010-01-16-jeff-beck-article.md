@@ -5,6 +5,7 @@ date:   2010-01-16 14:02:36 +0300
 thumb: /assets/img/posts/JeffBeck_Jeff.jpg
 categories:
  - press-articles
+ - news
 ---
 
 Intro about the interview, who with, date, what the general topic was

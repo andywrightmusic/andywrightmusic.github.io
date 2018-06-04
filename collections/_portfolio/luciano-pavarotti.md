@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Luciano Pavarotti
 permalink: /portfolio/luciano-pavarotti/
-thumbnail: /assets/img/production_mixing/luciano-pavarotti.jpeg
+thumbnail: /assets/img/portfolio_headers/luciano-pavarotti.jpeg
 category: production_mixing
 date: 20 July 2014
 homepage: true

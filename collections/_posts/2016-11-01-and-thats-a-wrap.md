@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "And that's a wrap"
+date:   2016-11-01 14:02:36 +0300
+thumb: /assets/img/posts/and-thats-a-wrap.png
+categories:
+ - news
+---
+
+SouthWest Studio Battersea (formerly Sphere Studio 1)
+
+So the doors have finally closed on yet another of London’s finest recording studios. As Sphere studios, the former laundry at 2 Shuttleworth Road, London SW11, traded from c.2000 to March 2014 as a commercial music hub with what was then a very different ethos to any of the other studios in London. The brainchild of owner Francesco Camelli and built with the expertise of master studio designer Andy Monroe, Sphere was to be 3 commercial studios surrounded by 7 programming rooms with resident producers and composers occupying them. Studio 1 was the flagship studio with a large recording area and a sumptuous control room. Studios 2 and 3 being mixing and overdubbing rooms. Being central to London and superbly equipped Sphere played host to some of the worlds biggest artists while maintaing a sense of being a musical family with some of the resident producers staying put for almost it’s entire life as a studio. March 2014 saw the sale of the studio to property developers as Francesco moved Sphere to LA to continue his career as a producer, engineer there. Despite efforts to sell the studio to anyone that would continue it’s life as a professional music facility, Francesco was finally forced to sell to people who made it clear at the outset that their intention was to bulldoze the site and create 73 new luxury flats.
+
+In the wake of Francesco’s departure, Charterland, (the new owners), offered tenancy agreements with a 3 month notice clause to all of the residents with the understanding that they would probably get no more than 9 months. I seized the opportunity to upgrade from my production room and take on Studio 1, a move that filled me with some trepidation at the outset but proved to be the start of an incredible 2 1/2 year tenure. I felt towards the end of that time that we would be there forever and took the news of it’s eventual sale to Wandsworth Council, and consequently our notice period, with deep sadness. Now, having had time to reflect, I see it as a time to embrace change, look for the next adventure and reflect on the incredible volume of work that we achieved in our time in Studio 1
+
+I first moved into one of the production rooms at Sphere on the 19/20th of July 2007 (officially the rainiest days in the history of Battersea), and between then and the 10th of March 2014 when I took charge of Studio 1 I made countless albums, some hits, some that didn’t get heard and some that might still have their day.  It is however the 2 1/2 years we spent in Studio 1 that gives me the most satisfaction largely on account of the sheer volume of musical life that happened during that period, often underfunded, often given with a belief in it’s potential. This leads me to believe wholeheartedly that our government should be investing in new studios, run if necessary with some government funding rather than granting the planning for yet another of our studios to be replaced by ‘much needed housing’. It is all very well to glory in our music culture to the extent that it was in both the opening and closing ceremonies of the 2012 Olympics but a crime to then tear down our ‘places of worship’. Yes, music can be made in bedrooms by young aspiring artist producers, but quality recording of live instruments needs rooms, ambient spaces and the expertise in how to utilise them.
+
+Our musical family left Battersea with good grace, resigned to our acceptance of the terms of our tenancy, and treated the exit as a celebration….that’s what musicians are like!

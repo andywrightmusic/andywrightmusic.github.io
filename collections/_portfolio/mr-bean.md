@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Mr Bean
 permalink: /portfolio/mr-bean/
-thumbnail: /assets/img/soundtracks/mr-bean.jpeg
+thumbnail: /assets/img/portfolio_headers/mr-bean.jpeg
 category: soundtracks
 date: 3 November 2011
 ---

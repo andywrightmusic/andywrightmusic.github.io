@@ -14,7 +14,6 @@ layout: compress
         <div id="content">
 
             <!-- portfolio-section -->
-
             <section class="portfolio-section">
 
                 <h2>{{ page.title }}</h2>
@@ -31,7 +30,9 @@ layout: compress
 
                 <div class="portfolio-box iso-call">
 
-                    {% for item in site.portfolio %}
+                    {% assign portfolioItems = site.portfolio | sort: "title" %}
+
+                    {% for item in portfolioItems %}
 
                         {% assign itemCategories = item.category | split: " " %}
 
@@ -62,7 +63,6 @@ layout: compress
                 </div>
 
             </section>
-
             <!-- end portfolio-section -->
 
         </div>

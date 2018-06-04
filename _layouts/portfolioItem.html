@@ -14,30 +14,48 @@ layout: compress
         <div id="content">
 
             <!-- blog-section -->
-
             <section class="blog-page-section single-post">
+
                 <div id="container-fluid">
+
                     <div class="row">
+
                         <div class="col-md-8">
+
                             <div class="blog-page-box">
+
                                 <div class="blog-post">
+
                                     <div class="post-content">
+
                                         <h2>{{ page.title }}</h2>
+
                                         <ul class="post-meta">
                                             <li>{{ page.date | date: '%d %B, %Y' }}</li>
                                         </ul>
+
                                         {{ page.content | markdownify }}
+
+                                        {% if page.youTubeVideoID %}
+                                            <div class='embed-container'>
+                                                <iframe src='https://www.youtube.com/embed/{{page.youTubeVideoID}}' frameborder='0' allowfullscreen></iframe>
+                                            </div>
+                                        {% endif %}
+
                                     </div>
+
                                 </div>
+
                             </div>
+                            
                         </div>
 
                         {% include blog_sidebar.html %}
 
                     </div>
                 </div>
-            </section>
 
+            </section>
             <!-- end blog-section -->
 
         </div>

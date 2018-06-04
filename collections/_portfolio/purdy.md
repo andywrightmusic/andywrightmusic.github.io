@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Purdy
 permalink: /portfolio/purdy/
-thumbnail: /assets/img/production_mixing/purdy.jpeg
+thumbnail: /assets/img/portfolio_headers/purdy.jpeg
 category: production_mixing songwriting_collaborations
 date: 20 July 2014
 homepage: true

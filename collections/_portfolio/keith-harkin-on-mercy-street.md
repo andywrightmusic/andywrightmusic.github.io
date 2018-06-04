@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Keith Harkin – On Mercy Street
 permalink: /portfolio/keith-harkin-on-mercy-street/
-thumbnail: /assets/img/production_mixing/keith-harkin-on-mercy-street.jpeg
+thumbnail: /assets/img/portfolio_headers/keith-harkin-on-mercy-street.jpeg
 category: production_mixing
 date: 29 August 2016
 homepage: true

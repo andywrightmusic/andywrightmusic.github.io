@@ -3,6 +3,15 @@
 $(document).ready(function($) {
 	"use strict";
 
+	/** Load custom fonts **/
+	$(function() {
+    	var fonts = 'https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900|Poppins:300,400,500,600,700';
+    	if (document.createStyleSheet) document.createStyleSheet(fonts);
+    	else $("head").append($("<link rel='stylesheet' href='"+ fonts +"' type='text/css' media='screen' />"));
+	});
+
+	/** ** /
+
 	/* global google: false */
 	/*jshint -W018 */
 

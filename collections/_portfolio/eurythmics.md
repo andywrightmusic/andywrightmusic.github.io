@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Eurythmics
 permalink: /portfolio/eurythmics/
-thumbnail: /assets/img/production_mixing/Eurythmics_Peace.jpeg
+thumbnail: /assets/img/portfolio_headers/Eurythmics_Peace.jpeg
 category: production_mixing
 date: 20 July 2014
 homepage: true

@@ -1,5 +1,5 @@
 /* import google fonts */
-@import url("https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900|Poppins:300,400,500,600,700");
+/*@import url("https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900|Poppins:300,400,500,600,700");*/
 .reset-elem, header nav.nav-menu ul.menu-list, header .social-box ul.social-icons, section.team-section .team-box .team-box-side .team-post .hover-team .inner-team ul.social-team, ul.filter, .blog-page-section .blog-page-box .blog-post .post-content ul.post-meta, .pagination-box ul.page-list, .sidebar .category-widget ul, .sidebar .popular-widget ul.popular-list, .sidebar .tags-widget ul.tags-list, section.testimonial-section .testimonial-box ul.bxslider, section.clients-section .clients-box ul.client-list, section.single-post .share-tag-box ul, .comment-area-box > ul, section.single-project-section .single-content .project-content ul.social-icons, section.single-project-section .single-content .project-content ul.detail-list {
   margin: 0;
   padding: 0; }

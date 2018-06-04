@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Gibonni
 permalink: /portfolio/gibonni/
-thumbnail: /assets/img/production_mixing/gibonni.png
+thumbnail: /assets/img/portfolio_headers/gibonni.png
 category: production_mixing
 date: 20 July 2014
 homepage: true

@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Simply Red
 permalink: /portfolio/simply-red-big-love/
-thumbnail: /assets/img/production_mixing/simply-red-big-love.png
+thumbnail: /assets/img/portfolio_headers/simply-red-big-love.png
 category: production_mixing
 date: 20 July 2014
 homepage: true

@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Miel
 permalink: /portfolio/miel/
-thumbnail: /assets/img/production_mixing/miel.png
+thumbnail: /assets/img/portfolio_headers/miel.png
 category: production_mixing songwriting_collaborations
 date: 20 July 2014
 homepage: true

@@ -5,6 +5,7 @@ date:   2016-09-01 14:02:36 +0300
 thumb: /assets/img/posts/Sphere21.jpg
 categories:
  - press-articles
+ - news
 ---
 
 Over the years a lot of people have asked me what it is that a record producer actually does – and it’s still a question that regularly comes up. I recently sat and talked it through with old friend and writing partner Tim Benson – and we put down a few of the thoughts that came out…

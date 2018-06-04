@@ -6,6 +6,7 @@ thumb: /assets/img/posts/GibonniInterview.jpg
 categories:
  - press-articles
  - artists
+ - news
 ---
 
 What’s the album called?

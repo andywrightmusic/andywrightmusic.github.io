@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Imelda May
 permalink: /portfolio/imelda-may/
-thumbnail: /assets/img/production_mixing/ImeldaMay_Mayhem.jpeg
+thumbnail: /assets/img/portfolio_headers/ImeldaMay_Mayhem.jpeg
 category: production_mixing
 date: 20 July 2014
 homepage: true

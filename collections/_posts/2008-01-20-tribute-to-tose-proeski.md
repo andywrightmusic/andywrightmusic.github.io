@@ -6,6 +6,7 @@ thumb: /assets/img/posts/ToeProeski.jpg
 categories:
  - press-articles
  - artists
+ - news
 ---
 
 My association with Macedonian born singer Toše Proeski  began in the spring of 2006. Tragically Toše died in a road accident on October the 16th 2007. I have since remained in contact with Toše’s family, completing our unfinished work (the resulting Album “The Hardest Thing’ a posthumous no. 1 record in all countries of former Yugoslavia), and helping promote a cinema released movie in the region about the making of our album. I am attaching here my tribute to Toše which I wrote after hearing of his death.

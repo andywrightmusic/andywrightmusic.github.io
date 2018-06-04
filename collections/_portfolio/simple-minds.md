@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Simple Minds
 permalink: /portfolio/simple-minds/
-thumbnail: /assets/img/production_mixing/SMBigMusic.jpeg
+thumbnail: /assets/img/portfolio_headers/SMBigMusic.jpeg
 category: production_mixing
 date: 20 July 2014
 homepage: true

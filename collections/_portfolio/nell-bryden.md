@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Nell Bryden - Bloom
 permalink: /portfolio/nell-bryden/
-thumbnail: /assets/img/production_mixing/nell-bryden.jpeg
+thumbnail: /assets/img/portfolio_headers/nell-bryden.jpeg
 category: production_mixing
 date: 29 August 2016
 homepage: true

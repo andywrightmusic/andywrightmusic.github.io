@@ -5,6 +5,7 @@ date:   2016-09-05 14:02:36 +0300
 thumb: /assets/img/posts/Mick-Hucknall-American-Soul.png
 categories:
  - press-articles
+ - news
 ---
 
 One of the tests for any long-time record producer is handling change and transformation, both in the overall musical climate and within the career of an established act. When multi-million sellers Simply Red announced their decision to disband in 2010, after twenty-five years, the question for a legion of loyal fans, and for the Simply Red production crew was – what next?

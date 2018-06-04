@@ -2,11 +2,9 @@
 layout: portfolioItem
 title: Mick Hucknall
 permalink: /portfolio/mick-hucknall/
-thumbnail: /assets/img/production_mixing/mick-hucknall-american-soul.png
-category: production_mixing
-date: 20 July 2014
-homepage: true
-homepageOrder: 9
+thumbnail: /assets/img/portfolio_headers/mick-hucknall.jpeg
+category: songwriting_collaborations
+date: 22 November 2011
 ---
 
-October 2012 saw the release of ‘American Soul’, Mick’s 2nd solo album and our 8th studio collaboration. The repertoire was largely garnered from Mick’s personal collection and from songs that were part of the soundtrack of his early life. It was particularly exciting to see every single achieve ‘Single of the Week’ status in addition to Ken Bruce making it Radio 2 ‘Album of the Week’. This in turn helped us achieve double Gold status in the UK.
+Mick and I are working together at the moment and the fact that this is our 18th year and 8th album is testament to our success as collaborators. All of our albums have made the top ten (2 number one’s), and Mick continues to sell out arenas the world over. We are currently working on Mick’s 1st solo album which marks an exciting departure in sound from Simply Red. Highlight for me over all the albums would probably have to be Fairground as it was our first no. 1. My personal favourites would be Mellow my Mind from ‘Blue’, ‘Sunrise’ and ‘Fake’ (single version) from ‘Home’.

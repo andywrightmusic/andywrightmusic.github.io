@@ -5,6 +5,7 @@ date:   2016-09-05 14:02:36 +0300
 thumb: /assets/img/posts/Big_Music_Simple_Mindss_album_cover.jpg
 categories:
  - press-articles
+ - news
 ---
 
 With the recent success of the album Big Music by Simple Minds, Andy talks about how the album was recorded and what it’s like working with a band whose reputation and substantial back catalogue precedes them…

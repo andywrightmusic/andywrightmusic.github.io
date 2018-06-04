@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Simple Minds Acoustic
 permalink: /portfolio/simple-minds-acoustic/
-thumbnail: /assets/img/production_mixing/SMacousticCover.jpeg
+thumbnail: /assets/img/portfolio_headers/SMacousticCover.jpeg
 category: production_mixing
 date: 1 February 2017
 homepage: true

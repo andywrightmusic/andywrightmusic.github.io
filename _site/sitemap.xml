@@ -111,6 +111,18 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/going-live/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/november-news/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/and-thats-a-wrap/</loc>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/recording-american-soul-by-mick-hucknall/</loc>
     </url>
   
@@ -123,7 +135,39 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/july-roundup/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/here-comes-the-summer/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/stepping-out/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/mid-may-round-up/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/nell-bryden-album-recording-april-2016/</loc>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/on-recording-20th-century-man-with-gibonni/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/update-june-2014/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/round-up-of-2011/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/news-from-2010/</loc>
     </url>
   
     <url>
