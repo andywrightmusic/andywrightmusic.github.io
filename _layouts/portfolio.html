@@ -37,7 +37,6 @@ layout: compress
 
                         {% assign categoryArray = "" | split: "" %}
 
-
                         {% for cat in itemCategories %}
                             {% assign itemCategory = portfolioCategoryArray | where:"class", cat | first %}
                             {% assign categoryArray = categoryArray | push: itemCategory %}
@@ -57,7 +56,6 @@ layout: compress
                                 </div>
                             </div>
                         </div>
-
 
                     {% endfor %}
 

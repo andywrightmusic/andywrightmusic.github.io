@@ -445,83 +445,6 @@ section.page-banner-section {
     line-height: 30px;
     margin-bottom: 0; }
 
-section.page-banner-section.portfolio-ban {
-  /*
-   * Set a counter and get the length of the image path.
-   */
-  /*
-   * Loop ver the image path and figure out the
-   * position of the dot where the extension begins.
-   */
-  /*
-   * If we were able to figure out where the extension is,
-   * slice the path into a base and an extension. Use that to
-   * calculate urls for different density environments. Set
-   * values for different environments.
-   */
-  /*
-     * Set a base background for 1x environments.
-     */
-  background: #111 url("../upload/banners/3.jpg") center center no-repeat;
-  background-size: cover;
-  /*
-     * Create an @2x-ish media query.
-     */
-  /*
-     * Create media queries for all environments that the user has
-     * provided images for.
-     */
-  /*
-   * If anything went wrong trying to separate the file from its
-   * extension, set a background value without doing anything to it.
-   */ }
-  @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
-    section.page-banner-section.portfolio-ban {
-      background: #111 url("../upload/banners/3@2x.jpg") center center no-repeat;
-      background-size: cover; } }
-  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-    section.page-banner-section.portfolio-ban {
-      background: #111 url("../upload/banners/3@2x.jpg") center center no-repeat;
-      background-size: cover; } }
-
-section.page-banner-section.blog-ban {
-  /*
-   * Set a counter and get the length of the image path.
-   */
-  /*
-   * Loop ver the image path and figure out the
-   * position of the dot where the extension begins.
-   */
-  /*
-   * If we were able to figure out where the extension is,
-   * slice the path into a base and an extension. Use that to
-   * calculate urls for different density environments. Set
-   * values for different environments.
-   */
-  /*
-     * Set a base background for 1x environments.
-     */
-  background: #111 url("../upload/banners/4.jpg") center center no-repeat;
-  background-size: cover;
-  /*
-     * Create an @2x-ish media query.
-     */
-  /*
-     * Create media queries for all environments that the user has
-     * provided images for.
-     */
-  /*
-   * If anything went wrong trying to separate the file from its
-   * extension, set a background value without doing anything to it.
-   */ }
-  @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
-    section.page-banner-section.blog-ban {
-      background: #111 url("../upload/banners/4@2x.jpg") center center no-repeat;
-      background-size: cover; } }
-  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-    section.page-banner-section.blog-ban {
-      background: #111 url("../upload/banners/4@2x.jpg") center center no-repeat;
-      background-size: cover; } }
 
 /*------------------------------------------------- */
 /* =  Team Sections */
@@ -1047,85 +970,6 @@ section.about-section {
   section.about-section .about-box .about-post {
     margin-bottom: 30px; }
 
-/*------------------------------------------------- */
-/* =  Testimonials */
-/*------------------------------------------------- */
-section.testimonial-section {
-  padding: 90px 0;
-  background: url("../upload/banners/2.jpg") center fixed; }
-  section.testimonial-section .testimonial-box {
-    text-align: center; }
-    section.testimonial-section .testimonial-box p {
-      color: #ffffff;
-      font-size: 14px;
-      max-width: 800px;
-      margin: 0 auto 30px; }
-    section.testimonial-section .testimonial-box img {
-      display: inline-block;
-      -webkit-border-radius: 50%;
-      -moz-border-radius: 50%;
-      -ms-border-radius: 50%;
-      border-radius: 50%;
-      margin-bottom: 14px; }
-    section.testimonial-section .testimonial-box h3 {
-      color: #ffffff;
-      font-size: 14px;
-      margin-bottom: 0; }
-
-/*------------------------------------------------- */
-/* =  Clients sections */
-/*------------------------------------------------- */
-section.clients-section {
-  padding: 90px 0;
-  background: #f9f9f9; }
-  section.clients-section .clients-box {
-    max-width: 1660px;
-    margin: 0 auto; }
-    section.clients-section .clients-box ul.client-list {
-      overflow: hidden; }
-      section.clients-section .clients-box ul.client-list li {
-        float: left;
-        width: 16.666666%;
-        list-style: none;
-        text-align: center; }
-        section.clients-section .clients-box ul.client-list li a {
-          padding: 10px 30px;
-          text-align: center;
-          opacity: 0.4;
-          width: auto;
-          max-width: 100%; }
-          section.clients-section .clients-box ul.client-list li a img {
-            max-width: 100%; }
-        section.clients-section .clients-box ul.client-list li a:hover {
-          opacity: 1; }
-
-/*------------------------------------------------- */
-/* =  Statistic sections*/
-/*------------------------------------------------- */
-section.statistic-section {
-  padding: 100px 0;
-  background: #333333; }
-  section.statistic-section .statistic-box {
-    overflow: hidden; }
-  section.statistic-section .statistic-post {
-    float: left;
-    width: 20%;
-    padding-left: 30px; }
-    section.statistic-section .statistic-post i {
-      color: #fff;
-      font-size: 36px;
-      margin-bottom: 15px; }
-    section.statistic-section .statistic-post p {
-      color: #fff;
-      margin-bottom: 0; }
-    section.statistic-section .statistic-post h2 {
-      margin-bottom: 10px; }
-    section.statistic-section .statistic-post span.timer {
-      color: #6D9FBF;
-      font-size: 46px;
-      font-family: "Poppins", sans-serif;
-      font-weight: 700;
-      margin: 0; }
 
 /*------------------------------------------------- */
 /* =  Single Post */
@@ -1303,76 +1147,6 @@ section.single-post .share-tag-box {
       color: #ffffff; }
 
 /*------------------------------------------------- */
-/* =  Single Project */
-/*------------------------------------------------- */
-section.single-project-section img {
-  width: 100%;
-  margin-bottom: 10px; }
-
-section.single-project-section .single-content {
-  margin-left: -15px;
-  margin-right: -15px; }
-  section.single-project-section .single-content .project-content {
-    padding: 35px;
-    background: #f9f9f9;
-    margin-bottom: 40px; }
-    section.single-project-section .single-content .project-content h2 {
-      font-size: 18px;
-      margin-bottom: 30px; }
-    section.single-project-section .single-content .project-content p {
-      margin-bottom: 30px; }
-    section.single-project-section .single-content .project-content ul.social-icons li {
-      display: inline-block;
-      margin-right: 6px; }
-      section.single-project-section .single-content .project-content ul.social-icons li a {
-        width: 40px;
-        height: 40px;
-        line-height: 36px;
-        -webkit-border-radius: 50%;
-        -moz-border-radius: 50%;
-        -ms-border-radius: 50%;
-        border-radius: 50%;
-        background: transparent;
-        color: #6D9FBF;
-        font-size: 16px;
-        text-align: center;
-        border: 2px solid #efefef; }
-      section.single-project-section .single-content .project-content ul.social-icons li a:hover {
-        background: #6D9FBF;
-        color: #fff;
-        border-color: transparent; }
-    section.single-project-section .single-content .project-content ul.detail-list {
-      margin-bottom: 40px; }
-      section.single-project-section .single-content .project-content ul.detail-list li {
-        display: block;
-        margin-bottom: 5px; }
-        section.single-project-section .single-content .project-content ul.detail-list li span {
-          color: #222222; }
-
-.pag-page {
-  overflow: hidden;
-  margin-bottom: 80px; }
-  .pag-page a {
-    color: #aaaaaa;
-    font-size: 12px;
-    font-family: "Merriweather", serif;
-    text-transform: uppercase;
-    letter-spacing: 1px; }
-    .pag-page a i {
-      font-size: 15px;
-      color: #aaa; }
-  .pag-page a.prev-project {
-    float: left; }
-    .pag-page a.prev-project i {
-      margin-right: 18px; }
-  .pag-page a.next-project {
-    float: right; }
-    .pag-page a.next-project i {
-      margin-left: 18px; }
-  .pag-page a:hover {
-    opacity: 0.7; }
-
-/*------------------------------------------------- */
 /* =  Contact */
 /*------------------------------------------------- */
 section.contact-form-section {
@@ -1440,10 +1214,6 @@ section.contact-form-section {
       display: inline-block;
       margin-left: -20px;
       margin-right: 4px; }
-
-#map {
-  width: 100%;
-  height: 500px; }
 
 /*-------------------------------------------------*/
 /* =  Responsive Part
@@ -1533,8 +1303,6 @@ section.contact-form-section {
     padding-left: 0px !important; }
   #content {
     margin-left: 0; }
-  #map {
-    height: 400px; }
   .contact-section .contact-form-part form#contact-form {
     overflow: hidden;
     margin-bottom: 30px; }
@@ -1561,8 +1329,6 @@ section.contact-form-section {
     margin-bottom: 30px; }
   .tp-thumbs {
     display: none; }
-  #map {
-    height: 300px; }
   section.team-section .team-box .team-box-side .team-post {
     width: 100%;
     margin-bottom: 20px; }
@@ -1593,8 +1359,7 @@ section.contact-form-section {
       line-height: 36px; }
     section.page-banner-section p {
       font-size: 12px; }
-  #map {
-    height: 200px; } }
+}
 
 
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
