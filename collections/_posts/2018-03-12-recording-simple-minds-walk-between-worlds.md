@@ -5,6 +5,7 @@ date:   2018-03-12 14:02:36 +0300
 thumb: /assets/img/posts/Minds-Walk-Between-Worlds.jpg
 categories:
  - news
+comments: true
 ---
 
 Walk Between Worlds is your third album with Simple Minds, and their first collection of all-new material since Big Music, in 2014. Given that Big Music was pronounced, ‘their best album in 30 years’ by MOJO magazine, did you feel any extra sense of pressure embarking on this one?
