@@ -5,8 +5,6 @@ permalink: /portfolio/miel/
 thumbnail: /assets/img/portfolio_headers/miel.png
 category: production_mixing songwriting_collaborations
 date: 20 July 2014
-homepage: true
-homepageOrder: 16
 ---
 
 As a producer well into my 3rd decade of record making, I am always interested when something different or unusual comes my way. I was introduced to Miel de Botton at a charity music night in December 2012. I was told that she wanted to record covers of classic French songs from the 40’s and 50’s. Early in 2013 I took up the challenge and we embarked on this project.
