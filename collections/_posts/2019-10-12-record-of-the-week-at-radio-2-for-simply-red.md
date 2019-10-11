@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Record of the Week at Radio 2 for Simply Read
+title: Record of the Week at Radio 2 for Simply Red
 categories: news
 date: 2019-10-12 09:00:00 +0300
 thumb: /assets/img/posts/simply-red-radio-2-record-of-the-week.png
