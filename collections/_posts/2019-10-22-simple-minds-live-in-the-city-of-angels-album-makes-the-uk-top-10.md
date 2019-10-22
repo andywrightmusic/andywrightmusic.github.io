@@ -3,7 +3,7 @@ layout: post
 title: Simple Minds 'Live in the City of Angels' album makes the UK Top 10
 categories: news
 date: 2019-10-22 09:00:00 +0300
-# thumb: /assets/img/posts/simple-minds-live-in-the-city-of-angels.png
+thumb: /assets/img/posts/simple-minds-live-in-the-city-of-angels.png
 tags: []
 keywords: []
 image: 
