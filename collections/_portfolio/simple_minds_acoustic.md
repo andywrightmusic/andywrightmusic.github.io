@@ -5,8 +5,6 @@ permalink: /portfolio/simple-minds-acoustic/
 thumbnail: /assets/img/portfolio_headers/SMacousticCover.jpeg
 category: production_mixing
 date: 1 February 2017
-homepage: true
-homepageOrder: 2
 ---
 
 Working with Simple Minds is always a pleasure and our collaboration is now well into it’s 5th year and 3rd album.

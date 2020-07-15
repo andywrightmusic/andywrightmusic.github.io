@@ -5,7 +5,7 @@ permalink: /portfolio/gibonni/
 thumbnail: /assets/img/portfolio_headers/gibonni.png
 category: production_mixing
 date: 20 July 2014
-homepage: true
+homepage: false
 homepageOrder: 11
 ---
 
