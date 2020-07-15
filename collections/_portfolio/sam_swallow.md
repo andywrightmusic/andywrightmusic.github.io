@@ -1,7 +1,7 @@
 ---
 layout: portfolioItem
-title: Sam Swallow - TBC
-permalink: /portfolio/sam-swallow-tbc/
+title: Sam Swallow - Into The Blue
+permalink: /portfolio/sam-swallow-into-the-blue/
 thumbnail: /assets/img/portfolio_headers/sam-swallow-into-the-blue.jpg
 category: production_mixing
 date: 29 August 2016
