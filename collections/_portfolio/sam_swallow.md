@@ -9,4 +9,6 @@ homepage: true
 homepageOrder: 16
 ---
 
-My collaboration with Sam began with a pledge on my part to help Sam realise a solo album. Having worked with Sam over the last few years I imagined the record would be largely instrumental and used to showcase his prodigious talent as a piano player/ musician. He’d told me of his ambition to sing more but it wasn’t until he unveiled what I believe to be a unique and exceptional set of songs that I realised that we were dealing with an artist that could break through and perform at the highest level. We continue to complete this over the next month.
+My collaboration with Sam began with a pledge on my part to help Sam realise a solo album. Having worked with Sam over the last few years I imagined the record would be largely instrumental and used to showcase his prodigious talent as a piano player/ musician.
+
+He’d told me of his ambition to sing more but it wasn’t until he unveiled what I believe to be a unique and exceptional set of songs that I realised that we were dealing with an artist that could break through and perform at the highest level.
