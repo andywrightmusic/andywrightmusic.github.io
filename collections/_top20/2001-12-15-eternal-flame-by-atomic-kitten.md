@@ -7,7 +7,7 @@ permalink: /top20/eternal-flame-by-atomic-kitten/
 thumb: /assets/img/top-posts/eternal-flame-by-atomic-kitten.jpg
 tags: []
 keywords: []
-youTubeVideoID: aztY_fpjJeQ&translated=1
+youTubeVideoID: aztY_fpjJeQ
 image: /assets/img/top-posts/eternal-flame-by-atomic-kitten.jpg
 number: 8
 ---
