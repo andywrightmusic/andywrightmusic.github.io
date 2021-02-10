@@ -1,0 +1,81 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+{% assign posts_array = "" | split: "" %}
+{% if page.category %}
+    {% for post in site.top20 reversed %}
+        {% if post.categories contains page.category %}
+            {% assign posts_array = posts_array | push: post %}
+        {% endif %}
+    {% endfor %}
+{% else %}
+    {% assign posts_array = site.top20 %}
+{% endif %}
+
+<body>
+
+    <!-- Container -->
+    <div id="container" class="top20-template">
+    
+        {% include header.html %}
+
+        <div id="content">
+
+            <!-- blog-page-section -->
+
+            <h2>{{page.title}}</h2>
+			<p class="to20-txt">Andy gives a backstory on 20 of his notable productions</p>
+            <section class="blog-page-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="blog-page-box iso-call">
+
+                                {% for post in posts_array %}
+                                    <div class="blog-post">
+                                        <div class="post-gallery">
+
+                                          
+                                                {% if post.thumb %}
+                                                    <a href="{{ post.url }}" title="View post">
+                                                        <img src="{{ post.thumb }}" alt="{{ post.title }}" />
+                                                    </a>
+                                                {% endif %}
+                                         
+
+                                        </div>
+                                        <div class="post-content">
+                                            <ul class="post-meta">
+                                                <li>{{ post.date | date: '%Y' }}</li>
+                                            </ul>
+                                            <h2><a href="{{ post.url }}" title="View post">{{ post.title }}</a></h2>
+                                            <p>{{ post.excerpt }}</p>
+                                        </div>
+                                    </div>
+                                {% endfor %}
+
+                            </div>
+                        </div>
+
+                        {% include blog_sidebar.html %}
+
+                    </div>
+                </div>
+            </section>
+
+            <!-- end blog-page-section -->
+
+        </div>
+        <!-- End content -->
+
+    </div>
+    <!-- End Container -->
+
+    {% include beforeBodyEnd.html %}
+
+</body>
+
+</html>

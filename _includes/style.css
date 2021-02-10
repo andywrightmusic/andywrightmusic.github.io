@@ -1146,6 +1146,16 @@ section.single-post .share-tag-box {
     .contact-form-box #comment-form input[type="submit"]:hover {
       background: #6D9FBF;
       color: #ffffff; }
+	  
+	.to20-txt {
+		font-Size: 15px;
+		line-height: 23px;
+		color: #222;
+		max-width: 400px;
+	}
+	.top20-template #content > h2 {
+		margin-bottom: 20px;
+	}
 
 /*------------------------------------------------- */
 /* =  Contact */

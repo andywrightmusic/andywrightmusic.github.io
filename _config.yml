@@ -35,6 +35,8 @@ collections:
     output: true
   portfolio_categories:
     output: true
+  top20:
+    output: true
 
 collections_dir: collections
 
