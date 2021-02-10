@@ -4,11 +4,12 @@ title: Weather Storm
 categories: top20
 date: 1993-12-15 11:02:36 +0300
 permalink: /top20/weather-storm/
-thumb: /assets/img/top-posts/fairground-simply-red.jpg
+thumb: /assets/img/top-posts/weather-storm.jpg
 tags: []
 keywords: []
 youTubeVideoID: hc7sJ-SItSY
-image: /assets/img/top-posts/fairground-simply-red.jpg
+image: /assets/img/top-posts/weather-storm.jpg
+number: 20
 ---
 
 In 1993, before I'd begun my career as a producer, I was a freelance musician and programmer when I got the call to work on Massive Attack's second album, 'Protection,' with Nellee Hooper in the producer's role. The band were part way through the project when their main programming musician, Marius De Vries, was offered the job of producing Annie Lennox – which he duly took. His leaving created an unexpected opportunity for me which I grabbed with both hands. I was already a big fan of Massive Attack, and wanted to work with Nellee Hooper, so it was an easy enough decision to make.

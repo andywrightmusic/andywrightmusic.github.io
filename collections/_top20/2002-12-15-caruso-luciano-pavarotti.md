@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: RQYVnY-C4_c
 image: /assets/img/top-posts/caruso-luciano-pavarotti.jpg
+number: 5
 ---
 
 I've had the great good fortune to work with some of the best pop and rock artists in the world over the course of my career, but an even more unusual privilege was the chance to work on a recording for one of opera's greatest ever stars, Luciano Pavarotti.

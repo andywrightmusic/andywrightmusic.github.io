@@ -6,9 +6,9 @@ layout: compress
 
 {% assign posts_array = "" | split: "" %}
 {% if page.category %}
-    {% for post in site.top20 reversed %}
+    {% for post in site.top20 %}
         {% if post.categories contains page.category %}
-            {% assign posts_array = posts_array | push: post %}
+            {% assign posts_array = posts_array | push: post | sort: "number" %}
         {% endif %}
     {% endfor %}
 {% else %}
@@ -52,7 +52,7 @@ layout: compress
                                                 <li>{{ post.date | date: '%Y' }}</li>
                                             </ul>
                                             <h2><a href="{{ post.url }}" title="View post">{{ post.title }}</a></h2>
-                                            <p>{{ post.excerpt }}</p>
+                                            <!-- <p>{{ post.excerpt }}</p> -->
                                         </div>
                                     </div>
                                 {% endfor %}

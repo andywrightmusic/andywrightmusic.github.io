@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: PE3g2zeBVQQ
 image: /assets/img/top-posts/sunrise-simply-red.jpg
+number: 1
 ---
 
 I look back on Sunrise as a pivotal track, maybe one of the most significant of my career – but it might just as easily have never happened. 

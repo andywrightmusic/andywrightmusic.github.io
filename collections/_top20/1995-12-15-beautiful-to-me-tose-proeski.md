@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: zcOugqVi_8o
 image: /assets/img/top-posts/beautiful-to-me-tose-proeski.jpg
+number: 18
 ---
 
 When I first met Tose Proeski he was already a well-established star, one of the biggest in his home region of the Balkans. He'd had several best-selling records, was a headline act at festivals and could regularly sell-out the biggest venues.

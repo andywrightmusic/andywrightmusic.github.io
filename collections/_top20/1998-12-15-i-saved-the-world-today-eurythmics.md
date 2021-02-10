@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: Zf052uxFF58
 image: /assets/img/top-posts/i-saved-the-world-today-eurythmics.jpg
+number: 4
 ---
 
 The first time I met Annie Lennox she was sitting at a piano playing something new that she'd been working on – the chord progression to what turned out to be the song, 'I Saved The World Today'. 

@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: xsaRoNLX6oA
 image: /assets/img/top-posts/down-the-wrong-way-chrissie-hynde-and-neil-young.jpg
+number: 7
 ---
 
 Chrissie Hynde was in the middle of doing her debut solo album 'Stockholm' with Swedish songwriter/producer Bjorn Yttling when I got one of those 'once-in-a-lifetime' type calls from her manager – asking could I produce a session recording Neil Young (!) for one of her tracks.

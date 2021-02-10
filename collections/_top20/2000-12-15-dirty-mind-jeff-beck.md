@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: FZUuVk5E2qs
 image: /assets/img/top-posts/dirty-mind-jeff-beck.jpg
+number: 2
 ---
 
 Working on my first record as producer for Jeff, I set out with the idea of creating something that would showcase his mastery of guitar sounds and also sit comfortably alongside the industrial sound of contemporary artists such as The Chemical Brothers. 

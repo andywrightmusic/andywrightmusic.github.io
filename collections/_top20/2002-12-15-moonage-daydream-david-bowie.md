@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: 
 image: 
+number: 15
 ---
 
 I've worked on music for all kinds of commercials, and encountered many surprise pairings when it comes to sound and vision – but possibly none more memorable than the ad I did involving David Bowie and two of the industry's best-known creative directors; Tom Carty and Walter Campbell. 

@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: O_-isKzt4O4
 image: /assets/img/top-posts/its-chico-time.jpg
+number: 13
 ---
 
 It's Chico Time was a number 1 in the UK Official Singles Chart.

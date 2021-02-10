@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: YpqlwRvGeDA
 image: /assets/img/top-posts/nadia-jeff-beck.jpg
+number: 16
 ---
 
 When I first began working with Jeff Beck on what would become the album 'You Had It Coming', very few things were set in stone when it came to the pieces of music we would take into production. 

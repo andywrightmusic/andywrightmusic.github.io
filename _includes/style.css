@@ -1156,6 +1156,12 @@ section.single-post .share-tag-box {
 	.top20-template #content > h2 {
 		margin-bottom: 20px;
 	}
+	.top20-template .blog-page-section .blog-page-box .blog-post .post-content {
+		border-bottom: 0px;
+	}
+	.top20-template .blog-page-section .blog-page-box .blog-post {
+		padding: 0px 10px 0px;
+	}
 
 /*------------------------------------------------- */
 /* =  Contact */

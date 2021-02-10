@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: aztY_fpjJeQ&translated=1
 image: /assets/img/top-posts/eternal-flame-by-atomic-kitten.jpg
+number: 8
 ---
 
 'Eternal Flame' by Atomic Kitten was another number 1 hit record for me, but it might never have happened had I not been taking a break on a session at Studio A, Metropolis at the same time that Hugh Goldsmith was in the building and asking to see me.

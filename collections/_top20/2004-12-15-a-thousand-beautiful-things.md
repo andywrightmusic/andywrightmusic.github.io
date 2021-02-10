@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: M53AGfiWI_8
 image: /assets/img/top-posts/annie-lennox-a-thousand-beautiful-things-3631.jpg
+number: 6
 ---
 
 A Thousand Beautiful Things is an enchanting song. Though not a 'hit' in the conventional sense, it was always special, and has gone on to occupy a place in the heart of many of Annie's most devoted fans.

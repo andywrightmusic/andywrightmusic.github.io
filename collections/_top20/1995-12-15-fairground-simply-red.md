@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: KiRyiVgWj6g
 image: /assets/img/top-posts/fairground-simply-red.jpg
+number: 9
 ---
 
 Fairground was a number 1 hit record – and an early success for me, a really big one. It was from the very first Simply Red album I'd worked on, and I'm happy to say 26 years later I’m still working with Mick and the boys. 

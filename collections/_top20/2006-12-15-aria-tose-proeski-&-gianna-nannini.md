@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: OHbT9VvtonM
 image: /assets/img/top-posts/aria-tose-proeski-&-gianna-nannini.jpg
+number: 10
 ---
 
 Aria, I think first and foremost, is a phenomenal piece of music, an incredible song. It was written by Gianna Nannini and Francesco Sartori with as remarkable and powerful a melody as you could hope to find.

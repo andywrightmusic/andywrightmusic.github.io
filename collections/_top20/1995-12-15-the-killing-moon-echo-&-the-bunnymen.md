@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: guLsIGCR_6M
 image: /assets/img/top-posts/the-killing-moon-echo-&-the-bunnymen.jpg
+number: 19
 ---
 
 The Killing Moon is an iconic track by anyone's standards, and I know that both Ian McCulloch and Will Sergeant think of it as the best ever Echo & The Bunnymen song. So it was inevitable, when working on their album, 'The Stars the Oceans and the Moon', that we'd take a shot at it – but no small challenge to see what we could add with any new interpretation.

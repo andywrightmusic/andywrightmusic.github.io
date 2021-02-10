@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: LuzZcTfKKPM
 image: /assets/img/top-posts/barrowland-star-simple-minds.jpg
+number: 3
 ---
 
 My personal favourite production on the Walk Between Worlds album is the epic, Barrowland Star.

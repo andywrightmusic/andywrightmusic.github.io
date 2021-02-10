@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: _CRnai8nCIU
 image: /assets/img/top-posts/inside-out-imelda-may.jpg
+number: 12
 ---
 
 My first experience of Imelda May was watching her in a live performance at the O2 in London – I think that seeing her on a stage, in her natural element, was a great way to be introduced to an artist like Imelda, especially one of her uniqueness and intensity.

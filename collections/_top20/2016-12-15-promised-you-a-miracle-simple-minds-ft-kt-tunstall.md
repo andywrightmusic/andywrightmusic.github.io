@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: lAVt9Y-4XRs
 image: /assets/img/top-posts/promised-you-a-miracle-simple-minds-ft-kt-tunstall.jpg
+number: 17
 ---
 
 'Promised You A Miracle' was the first song I ever heard by Simple Minds – way back in 1982, watching Top of the Pops in my living room. I loved the track and pretty much became an instant fan of the band. But I can honestly say I'd never have imagined years later I'd be working with them, and producing their records.

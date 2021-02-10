@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: xqDlLpPV2PA
 image: /assets/img/top-posts/leave-me-alone-natalie-imbruglia.jpg
+number: 14
 ---
 
 Leave Me Alone was one of my earliest successes as a songwriter and producer – on reflection a really big success – and it arrived out of the blue in many ways.

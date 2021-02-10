@@ -9,6 +9,7 @@ tags: []
 keywords: []
 youTubeVideoID: ykQIyKdqDEU
 image: /assets/img/top-posts/id-rather-go-blind-mick-hucknall.jpg
+number: 11
 ---
 
 I'd Rather Go Blind is a special song, and Mick's recording of it is one I'm particularly proud to have produced. 
