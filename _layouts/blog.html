@@ -38,7 +38,7 @@ layout: compress
                                     <div class="blog-post">
                                         <div class="post-gallery">
 
-                                            {% if post.youTubeVideoID %}
+                                            {% if post.youTubeVideoID and post.listthumb != "image" %}
                                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{post.youTubeVideoID}}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                                             {% else %}
                                                 {% if post.thumb %}

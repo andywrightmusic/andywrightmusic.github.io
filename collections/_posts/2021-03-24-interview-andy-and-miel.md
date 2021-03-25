@@ -8,6 +8,7 @@ tags: []
 keywords: []
 youTubeVideoID: xE2XOuu_4FU
 image: /assets/img/posts/andy-and-miel.jpg
+listthumb: image
 ---
 
 Following the release of the new Miel song, 'Is it Enough?' Andy and Miel talk about their body of work together, their process and how it all got started...
