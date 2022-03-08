@@ -12,6 +12,7 @@ image: /assets/img/posts/andy-gavin-alison-in-london.jpg
 The new Betty Boo single is the first in a while, the first song from an all-new collection set for release later this year. Premiered on Rylan’s BBC Radio 2 show and received to wide acclaim it’s been brilliant to work on it with her. Can’t wait to see the album out there.
 
 ![](/assets/img/posts/andy-gavin-alison-in-london.jpg)
+*with Gavin and Alison back in London*
 
 [BBC website review](https://www.bbc.co.uk/news/entertainment-arts-60124008)
 
