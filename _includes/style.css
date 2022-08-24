@@ -623,7 +623,7 @@ section.portfolio-section {
         section.portfolio-section .portfolio-box .project-post .hover-box .inner-hover h2 {
           font-size: 18px;
           font-weight: 600;
-          margin-bottom: 5px; }
+          margin-bottom: 5px; padding-left: 20px; padding-right: 20px;}
           section.portfolio-section .portfolio-box .project-post .hover-box .inner-hover h2 a {
             color: #fff; }
           section.portfolio-section .portfolio-box .project-post .hover-box .inner-hover h2 a:hover {
