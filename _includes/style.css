@@ -769,6 +769,8 @@ ul.filter {
    * If anything went wrong trying to separate the file from its
    * extension, set a background value without doing anything to it.
    */ }
+	.blog-post .post-gallery { text-align: center; }
+	
       @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
         .blog-page-section .blog-page-box .blog-post.quote-post blockquote {
           background: #111 url("../upload/blog/back@2x.jpg") center center no-repeat;
