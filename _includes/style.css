@@ -1363,11 +1363,12 @@ section.contact-form-section {
     padding-left: 0; } }
 
 @media (max-width: 600px) {
-  .blog-page-section .blog-page-box .blog-post,
-  section.portfolio-section .portfolio-box .project-post {
-    width: 100%; }
-  #content {
-    padding: 10px; } }
+	.blog-page-section .blog-page-box .blog-post,
+	section.portfolio-section .portfolio-box .project-post {
+	width: 100%; }
+	#content { padding: 10px; } 
+	.blog-page-box .blog-post a {  width: 100%; }	
+}
 
 @media (max-width: 460px) {
   section.statistic-section .statistic-post {
