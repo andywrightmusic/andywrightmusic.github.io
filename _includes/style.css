@@ -1275,6 +1275,9 @@ section.contact-form-section {
   .blog-page-section .blog-page-box .blog-post .post-content {
     padding: 20px 0; } }
 
+@media (min-width: 601px) and (max-width: 1199px) {
+	section.portfolio-section .portfolio-box.home { display: flex;flex-wrap: wrap; }
+}
 @media (max-width: 991px) {
   header {
     position: relative;
