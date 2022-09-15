@@ -42,16 +42,30 @@ $(document).ready(function($) {
 		}
 
 		winDow.on('resize', function(){
-			var selector = $filter.find('a.active').attr('data-filter');
+			var selector = $filter.find('a.active:not(.responsive-link)').attr('data-filter');
 
 			try {
-				$container.isotope({ 
+				/* $container.isotope({ 
 					filter	: selector,
+					layoutMode:'masonry',
 					animationOptions: {
 						duration: 750,
 						easing	: 'linear',
 						queue	: false,
 					}
+				}); */
+				$container.imagesLoaded( function(){
+					$container.trigger('resize');
+					$container.isotope({
+						filter:selector,
+						layoutMode:'masonry',
+						animationOptions:{
+							duration:750,
+							easing:'linear'
+						}
+					});
+
+					// setTimeout(Resize, 1500);
 				});
 			} catch(err) {
 			}
@@ -59,17 +73,31 @@ $(document).ready(function($) {
 		});
 		
 		// Isotope Filter 
-		$filter.find('a').on('click', function(){
+		$filter.find('a:not(.responsive-link)').on('click', function(){
 			var selector = $(this).attr('data-filter');
 
 			try {
-				$container.isotope({ 
+				/* $container.isotope({ 
 					filter	: selector,
+					layoutMode:'masonry',
 					animationOptions: {
 						duration: 750,
 						easing	: 'linear',
 						queue	: false,
 					}
+				}); */
+				$container.imagesLoaded( function(){
+					$container.trigger('resize');
+					$container.isotope({
+						filter:selector,
+						layoutMode:'masonry',
+						animationOptions:{
+							duration:750,
+							easing:'linear'
+						}
+					});
+
+					// setTimeout(Resize, 1500);
 				});
 			} catch(err) {
 
@@ -133,12 +161,25 @@ $(document).ready(function($) {
 		}
 	});
 
-	winDow.on('resize', function(){
+	/* winDow.on('resize', function(){
 		if ( winDow.width() > 991 ) {
 			navbarVertical.slideDown(300).removeClass('active');
 		} else {
 			navbarVertical.slideUp(300).removeClass('active');
 		}
+	}); */
+	var windowWidth = $(window).width();
+	winDow.on('resize', function(){
+		if ( winDow.width() > 991 ) {
+			if(!navbarVertical.hasClass('active')) {
+				navbarVertical.slideDown(300).addClass('active');
+			} 
+		}  else {
+			if(windowWidth != $(window).width()) {
+				 windowWidth = $(window).width();
+				navbarVertical.slideUp(300).removeClass('active');
+			}
+		} 
 	});
 
 	/* ---------------------------------------------------------------------- */
