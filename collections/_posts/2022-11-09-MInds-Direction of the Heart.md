@@ -2,7 +2,7 @@
 layout: post
 title: Simple Minds Land at Number 4
 categories: news 
-date: 2022-11-09 09:02:36 +0300
+date: 2022-11-09 09:03:36 +0300
 thumb: /assets/img/posts/MInds - Direction of the Heart.jpeg
 tags: []
 keywords: [] 
