@@ -12,6 +12,8 @@ Betty Boo’s comeback record continues to generate big-time heat as well as exc
 
 It’s wonderful to see the album out there doing so well - and I know this is only the beginning…
 
+You can catch the videos for “Right by Your Side” featuring David Gray and “Miracle” featuring Chuck D right here:
+
 [Right by Your Side](https://www.youtube.com/watch?v=2jvN-bwFsMc)
 
 [Miracle](https://www.youtube.com/watch?v=IQoS7w3kSc0)

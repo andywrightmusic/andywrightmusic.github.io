@@ -14,6 +14,8 @@ Not only is the album a terrific commercial success, it’s also been the recipi
 
 Making a record during two years of a global pandemic was never going to be easy - but the result has been a triumph. 
 
+You can catch the videos for the first two singles, ‘Vision Thing’ and ‘First You Jump’ here:
+
 [Vision Thing](https://www.youtube.com/watch?v=cfw4Upk1JAE)
 
 [First You Jump](https://www.youtube.com/watch?v=fiycWJyviZQ)
