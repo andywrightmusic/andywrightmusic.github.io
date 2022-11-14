@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Betty Boo - Boomerang
 permalink: /portfolio/betty-boo-boomerang/
-thumbnail: /assets/img/portfolio_headers/betty-boo.jpg
+thumbnail: /assets/img/portfolio_headers/betty-boo-cover.jpeg
 category: production_mixing
 date: 17 August 2022
 homepage: true
