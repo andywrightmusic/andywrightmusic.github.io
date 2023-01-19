@@ -6,20 +6,20 @@ layout: compress
 
 {% assign posts_array = "" | split: "" %}
 {% if page.category %}
-    {% for post in site.posts %}
-        {% if post.categories contains page.category %}
-            {% assign posts_array = posts_array | push: post %}
-        {% endif %}
-    {% endfor %}
+{% for post in site.posts %}
+{% if post.categories contains page.category %}
+{% assign posts_array = posts_array | push: post %}
+{% endif %}
+{% endfor %}
 {% else %}
-    {% assign posts_array = site.posts %}
+{% assign posts_array = site.posts %}
 {% endif %}
 
 <body>
 
     <!-- Container -->
     <div id="container">
-    
+
         {% include header.html %}
 
         <div id="content">
@@ -35,37 +35,49 @@ layout: compress
                             <div class="blog-page-box iso-call">
 
                                 {% for post in posts_array %}
-                                    <div class="blog-post">
-                                        <div class="post-gallery">
 
-                                            {% if post.youTubeVideoID and post.listthumb != "image" %}
-                                                <iframe width="560" height="315" src="https://www.youtube.com/embed/{{post.youTubeVideoID}}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                            {% else %}
-                                                {% if post.thumb %}
-                                                    <a href="{{ post.url }}" title="View post">
-                                                        <img src="{{ post.thumb }}" alt="{{ post.title }}" />
-                                                    </a>
-                                                {% endif %}
+                                {%- if post.title == 'Retro Pop Magazine makes Boomerang Album of the Year for Betty
+                                Boo' and page.title == 'Blog' -%}
+
+                                <div class="blog-post hidden">
+                                    {%- elsif post.title == 'Industry Press Features' and page.title == 'Blog' -%}
+                                    <div class="blog-post hidden">
+                                        {% else %}
+                                        <div class="blog-post">
                                             {% endif %}
+                                            <div class="post-gallery">
 
+                                                {% if post.youTubeVideoID and post.listthumb != "image" %}
+                                                <iframe width="560" height="315"
+                                                    src="https://www.youtube.com/embed/{{post.youTubeVideoID}}?rel=0&amp;showinfo=0"
+                                                    frameborder="0" allow="autoplay; encrypted-media"
+                                                    allowfullscreen></iframe>
+                                                {% else %}
+                                                {% if post.thumb %}
+                                                <a href="{{ post.url }}" title="View post">
+                                                    <img src="{{ post.thumb }}" alt="{{ post.title }}" />
+                                                </a>
+                                                {% endif %}
+                                                {% endif %}
+
+                                            </div>
+                                            <div class="post-content">
+                                                <ul class="post-meta">
+                                                    <li>{{ post.date | date: '%d %B, %Y' }}</li>
+                                                </ul>
+                                                <h2><a href="{{ post.url }}" title="View post">{{ post.title }}</a></h2>
+                                                <p>{{ post.excerpt }}</p>
+                                            </div>
                                         </div>
-                                        <div class="post-content">
-                                            <ul class="post-meta">
-                                                <li>{{ post.date | date: '%d %B, %Y' }}</li>
-                                            </ul>
-                                            <h2><a href="{{ post.url }}" title="View post">{{ post.title }}</a></h2>
-                                            <p>{{ post.excerpt }}</p>
-                                        </div>
+                                        {% endfor %}
+
                                     </div>
-                                {% endfor %}
+                                </div>
+
+                                {% include blog_sidebar.html %}
 
                             </div>
                         </div>
-
-                        {% include blog_sidebar.html %}
-
-                    </div>
-                </div>
             </section>
 
             <!-- end blog-page-section -->
