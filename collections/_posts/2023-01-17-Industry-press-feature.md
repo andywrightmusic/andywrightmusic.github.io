@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Industry Press Features"
-date:   2023-01-17 14:02:36 +0300
+date: 2023-01-17 09:03:36 +0300
 thumb: /assets/img/posts/industries_press_features.png
 categories:
  - press-articles

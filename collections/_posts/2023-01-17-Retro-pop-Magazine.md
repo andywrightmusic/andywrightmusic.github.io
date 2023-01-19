@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Retro Pop Magazine makes Boomerang Album of the Year for Betty Boo"
-date:   2023-01-17 14:02:36 +0300
+date: 2023-01-17 09:03:36 +0300
 thumb: /assets/img/posts/Retro-pop.png
 keywords: [] 
 categories:
