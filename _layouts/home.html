@@ -47,7 +47,11 @@ layout: compress
                                     <h2><a href="{{ item.permalink }}">{{ item.title }}</a></h2>
                                     <span>
                                         {% for catItem in categoryArray %}
+                                        {% if catItem.title == 'SlowFlow & Dancer' %}
                                             <a href="{{ catItem.permalink }}/">{{ catItem.title }}</a>
+                                         {% else %}
+                                             <a href="{{ catItem.permalink }}">{{ catItem.title }}</a>
+                                         {% endif %}
                                             <br />
                                         {% endfor %}
                                     </span>
