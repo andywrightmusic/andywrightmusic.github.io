@@ -29,7 +29,11 @@
             {% assign categoryArray = site.portfolio_categories | sort: 'order' %}
             <ul class="tags-list">
                 {% for collection in categoryArray %}
+                {% if catItem.title == 'SlowFlow & Dancer' %}
+                <li><a href="{{collection.permalink}}/">{{ collection.title }}</a></li>
+                {% else %}
                     <li><a href="{{collection.permalink}}">{{ collection.title }}</a></li>
+                {% endif %}
                 {% endfor %}
             </ul>
         </div>
