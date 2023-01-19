@@ -4,7 +4,6 @@ title: Andreas Vollenweider - SlowFlow and Dancer
 permalink: /portfolio/SlowFlow-and-Dancer/
 thumbnail: /assets/img/portfolio_headers/SlowFlow-and-Dancer.jpeg
 category: SlowFlow_&_Dancer
-url: /blog/
 date: 17 January 2023
 homepage: true
 homepageOrder: 1.8
