@@ -24,7 +24,11 @@ layout: compress
                     <li><a class="active" href="#" data-filter="*">all</a></li>
                     {% for collection in portfolioCategoryArray %}
                         {% assign categoryType = collection.class | downcase %}
+                        {% if collection.title == 'SlowFlow & Dancer' %}
+                        <li class="hidden"><a href="#" data-filter=".{{categoryType}}">{{ collection.title }}</a></li>
+                        {% else %}
                         <li><a href="#" data-filter=".{{categoryType}}">{{ collection.title }}</a></li>
+                        {% endif %}
                     {% endfor %}
                 </ul>
 

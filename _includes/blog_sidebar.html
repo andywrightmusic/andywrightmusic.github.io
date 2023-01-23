@@ -4,13 +4,21 @@
             <h2>Latest from the blog</h2>
             <ul class="popular-list">
                 {% for post in site.posts limit:5 %}
-                    <li>
-                        <img src="{{ post.thumb }}" alt="{{post.title}}" />
-                        <div class="side-content">
-                            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                            <span>{{ post.date | date: '%d %B, %Y' }}</span>
-                        </div>
-                    </li>
+
+                {%- if post.title == 'Retro Pop Magazine makes Boomerang Album of the Year for Betty Boo' -%}
+                <li class="hidden">
+                    {%- elsif post.title == 'Industry Press Features' -%}
+                <li class="hidden">
+                    {% else %}
+                <li>
+                    {% endif %}
+                    <img src="{{ post.thumb }}" alt="{{post.title}}" />
+                    <div class="side-content">
+                        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                        <span>{{ post.date | date: '%d %B, %Y' }}</span>
+                    </div>
+                </li>
+
                 {% endfor %}
             </ul>
         </div>
@@ -19,7 +27,7 @@
             <h2>Categories</h2>
             <ul class="tags-list">
                 {% for category in site.data.blog_categories %}
-                    <li><a href="{{category.url}}">{{category.name}}</a></li>
+                <li><a href="{{category.url}}">{{category.name}}</a></li>
                 {% endfor %}
             </ul>
         </div>
@@ -29,10 +37,10 @@
             {% assign categoryArray = site.portfolio_categories | sort: 'order' %}
             <ul class="tags-list">
                 {% for collection in categoryArray %}
-                {% if catItem.title == 'SlowFlow & Dancer' %}
-                <li><a href="{{collection.permalink}}/">{{ collection.title }}</a></li>
+                {% if collection.title == 'SlowFlow & Dancer' %}
+                <li><a href="{{collection.permalink}}/" class="hidden">{{ collection.title }}</a></li>
                 {% else %}
-                    <li><a href="{{collection.permalink}}">{{ collection.title }}</a></li>
+                <li><a href="{{collection.permalink}}">{{ collection.title }}</a></li>
                 {% endif %}
                 {% endfor %}
             </ul>
