@@ -27,7 +27,7 @@ layout: compress
 
                 {% assign portfolioCategoryArray = site.portfolio_categories | sort: 'order' %}
 
-                <div class="portfolio-box home">
+                <div class="portfolio-box home home_parent">
 
                     {% for item in homeItemsArray %}
 
@@ -39,8 +39,7 @@ layout: compress
                             {% assign itemCategory = portfolioCategoryArray | where:"class", cat | first %}
                             {% assign categoryArray = categoryArray | push: itemCategory %}
                         {% endfor %}
-
-                        <div class="project-post {{ item.category }} col-md-3">
+                        <div class="project-post {{ item.category }} col-md-3 home_grid">
                             <img src="{{ item.thumbnail }}" alt="{{ item.title }}" />
                             <div class="hover-box">
                                 <div class="inner-hover">
@@ -58,10 +57,7 @@ layout: compress
                                 </div>
                             </div>
                         </div>
-
-
                     {% endfor %}
-
                 </div>
 
             </section>
