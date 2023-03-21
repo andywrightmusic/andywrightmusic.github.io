@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Simple Red Time
 # permalink: /portfolio/Simple-Red-Time/
-thumbnail: /assets/img/portfolio_headers/Simply-Red-Time.jpeg
+thumbnail: /assets/img/portfolio_headers/Simply-Red-Time.jpg
 category: production_mixing
 date: 21 March 2023
 homepage: true
