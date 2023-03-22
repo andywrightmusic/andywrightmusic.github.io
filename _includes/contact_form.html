@@ -1,38 +1,31 @@
 <script src="https://www.google.com/recaptcha/api.js"></script>
 
-<form 
-	id="contact-form" 
-	action="https://formspree.io/f/mbjpngvl"
-	method="POST"
-	target="_blank">
+<form id="contact-form" action="https://formspree.io/f/mbjpngvl" method="POST" target="_blank">
 
 	<div class="row">
 
 		<div class="col-sm-6">
-			<input required name="name" id="name" type="text" placeholder="Name*" data-validation-required-message="Please enter your name.">
+			<input required name="name" id="name" type="text" placeholder="Name*"
+				data-validation-required-message="Please enter your name.">
 		</div>
 
 		<div class="col-sm-6">
-			<input required name="_replyto" id="_replyto" type="email" placeholder="Email*" data-validation-required-message="Please enter your email address.">
+			<input required name="_replyto" id="_replyto" type="email" placeholder="Email*"
+				data-validation-required-message="Please enter your email address.">
 		</div>
 
 	</div>
 
-	<input required name="_subject" id="subject" type="text" placeholder="Subject">  
+	<input required name="_subject" id="subject" type="text" placeholder="Subject">
 
-	<textarea  name="message" id="message" placeholder="Message*" data-validation-required-message="Please enter your Message."></textarea>
+	<textarea name="message" id="message" placeholder="Message*"
+		data-validation-required-message="Please enter your Message."></textarea>
 
 	<input type="submit" value="Send Message" />
 	<input type="hidden" id="captchaResponse" name="g-recaptcha-response">
-	<div class="g-recaptcha" data-sitekey="6Ld2KRglAAAAAA0En6qThbltllycrf-lHs3G8PhX" style="padding-top: 2rem;"></div>
+	<div class="g-recaptcha" data-sitekey="6LeztiAlAAAAANzpGy5rRhO3Lie5KuoZHgyMkXFq" style="padding-top: 2rem;"></div>
 
-	<input 
-		type="text" 
-		name="_gotcha" 
-		style="display:none" />
+	<input type="text" name="_gotcha" style="display:none" />
 
-	<input 
-		type="hidden" 
-		name="_next" 
-		value="{{ site.url }}/thanks" />
+	<input type="hidden" name="_next" value="{{ site.url }}/thanks" />
 </form>
