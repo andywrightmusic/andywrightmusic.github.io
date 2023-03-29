@@ -1,44 +1,18 @@
 <script src="https://www.google.com/recaptcha/api.js"></script>
-<!-- <form 
-	id="contact-form" 
-	action="https://formspree.io/f/mbjpngvl"
-	method="POST"
-	target="_blank"> -->
-	<form 
-	id="contact-form" 
-	action="https://formspree.io/f/xvonwgkz"
-	method="POST"
-	target="_blank">
+<form id="contact-form" action="https://formspree.io/f/xvonwgkz" method="POST" target="_blank">
 	<div class="row">
-
 		<div class="col-sm-6">
 			<input required name="name" id="name" type="text" placeholder="Name*">
 		</div>
-
 		<div class="col-sm-6">
 			<input required name="_replyto" id="_replyto" type="text" placeholder="Email*">
 		</div>
-
 	</div>
-
-	<input required name="_subject" id="subject" type="text" placeholder="Subject">  
-
+	<input required name="_subject" id="subject" type="text" placeholder="Subject">
 	<textarea required name="message" id="message" placeholder="Message*"></textarea>
-
-	<div class="g-recaptcha" data-sitekey="6Lev3yAlAAAAAO1ij0T1BUxGEsi30t6JY9vNqjhf" style="padding-bottom: 2.5rem;"></div>
+	<div class="g-recaptcha" data-sitekey="6LezKT8lAAAAANL5syaIs_hgpeyp7JBm-zJN9J3p" style="padding-bottom: 2.5rem;">
+	</div>
 	<input type="submit" value="Send Message" />
-
-	<input 
-		type="text" 
-		name="_gotcha" 
-		style="display:none" />
-
-	<input 
-		type="hidden" 
-		name="_next" 
-		value="{{ site.url }}/thanks" />
-
-	
-
+	<input type="text" name="_gotcha" style="display:none" />
+	<input type="hidden" name="_next" value="{{ site.url }}/thanks" />
 </form>
-
