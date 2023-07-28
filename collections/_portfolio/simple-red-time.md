@@ -1,6 +1,6 @@
 ---
 layout: portfolioItem
-title: Simply Red-Time
+title: Simply Red - Time
 permalink: /portfolio/Simple-Red-Time/
 thumbnail: /assets/img/portfolio_headers/Simply-Red-Time.jpg
 category: production_mixing

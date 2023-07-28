@@ -5,8 +5,6 @@ permalink: /portfolio/sam-swallow-into-the-blue/
 thumbnail: /assets/img/portfolio_headers/sam-swallow-into-the-blue.jpg
 category: production_mixing
 date: 29 August 2016
-homepage: true
-homepageOrder: 16
 ---
 
 My collaboration with Sam began with a pledge on my part to help Sam realise a solo album. Having worked with Sam over the last few years I imagined the record would be largely instrumental and used to showcase his prodigious talent as a piano player/ musician.
