@@ -6,7 +6,7 @@ thumbnail: /assets/img/portfolio_headers/80s-symphonic.jpg
 category: production_mixing
 date: 11 December 2018
 homepage: true
-homepageOrder: 2
+homepageOrder: 8
 ---
 
 80s Symphonic has been an amazing experience, quite unlike anything I've ever taken on before. In some ways, I think it's a unique project; one I found myself hooked on from the start. I loved getting the original recordings, getting my hands on the source material, much of it naturally digitised now from its original tape form, but the archives were fantastic, and even included photos of the original tape boxes and track sheets, so we had everything.

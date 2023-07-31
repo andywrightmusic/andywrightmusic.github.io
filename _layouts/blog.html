@@ -64,7 +64,11 @@ layout: compress
                                                     <li>{{ post.date | date: '%d %B, %Y' }}</li>
                                                 </ul>
                                                 <h2><a href="{{ post.url }}" title="View post">{{ post.title }}</a></h2>
+                                                {% if post.title == "Jeff Beck" %}
+                                                <p>It was a really terrible shock to hear of Jeff’s passing in January this year. He was such a young 78 year old, clean living and with a wonderful sense of humour. I was recommended as a candidate to produce Jeff in 2000 and, whilst I was unsure whether I would be the right man for the job, I agreed to meet him at Metropolis Studios. We started working together shortly after our initial meeting - and what resulted over the next few years was 2 albums with Best Rock Guitar Performance Grammy’s for each.<br><a href="{{ post.url }}" title="View post">Read more...</a></p>
+                                                {% else %}
                                                 <p>{{ post.excerpt }}</p>
+                                                {% endif %}
                                             </div>
                                         </div>
                                         {% endfor %}

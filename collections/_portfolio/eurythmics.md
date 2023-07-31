@@ -6,7 +6,7 @@ thumbnail: /assets/img/portfolio_headers/Eurythmics_Peace.jpeg
 category: production_mixing
 date: 20 July 2014
 homepage: true
-homepageOrder: 7
+homepageOrder: 13
 ---
 
 I met Dave Stewart through mutual friends, and started working with him on his projects in about 1996. We worked together on several albums including Alisha’s Attic, Sinead O’connor, Imogen Heap and Jon Bon Jovi. I also co-produced Dave’s solo project Sli-Fi ,travelling with him frequently to LA and other fabulous destinations to write and record new songs. This was without doubt the most fun I had whilst working but I also learned so much observing Dave’s energy and positivity towards his artists.
