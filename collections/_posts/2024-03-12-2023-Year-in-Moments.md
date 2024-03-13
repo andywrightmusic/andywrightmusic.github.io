@@ -29,7 +29,7 @@ I began a new project with Turkish opera singer, Isin Turan – with whom we wor
 
 One of our great pleasures this year was producing and writing an album with Swiss band The Souls. Gavin and I sharing the role created 12 new songs with the band and recorded them in the legendary Eastcote Studios in west London. We hope to have a long association with the band and are optimistic they will be commercially successful… it’s a great record.
 
-![](/assets/img/posts/The-Souls.jpg)
+![](/assets/img/posts/The-Souls-New.jpg)
 
 Records that saw releases in 2023 were Simply Red’s ‘Time’ and ‘Solstice Kiss’ by Simple Minds and it was massively rewarding to see tracks by these brilliant artists, regulars on our production calendar, enjoying great success. As well as singles, albums and records of the week, they’ve both had sell out concert tours and excellent sales. Long may they continue!
 
