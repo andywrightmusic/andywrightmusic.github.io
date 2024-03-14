@@ -43,6 +43,8 @@ In addition, I have been continuing my work with the inspirational Miel de Botto
 
 We released new songs with Annie Falconer and completed an album with another Swiss artist Pat Bornstein…more of that later. 
 
+![](/assets/img/posts/Annie-Falconer.jpg)
+
 In addition we recorded some truly special material from the very well-established Gilbert O’Sullivan’s enviable songbook.
 
 ![](/assets/img/posts/Gilbert-O-Sullivan.jpg)
