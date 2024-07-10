@@ -14,7 +14,5 @@ Our recent collaboration with Sananda Maitreya on ‘Love is Blind’ – the le
 
 Appearing on the Zoe Ball BBC radio show Sananda spoke generously of the project; “I very rarely collaborate, but the great (!) Andy Wright let me know he thought he had something we should do together. It came together really quickly and we decided we’d release this first…”
 
-Sananda plays his first UK show in 20 years at the Love Supreme Festival with a tour to follow. Love is Blind is also playlisted on Radio 2.
-
 Check out the official video for the single here:
 [Youtube](https://www.youtube.com/watch?v=hwf7cR44ehI)
