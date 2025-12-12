@@ -6,7 +6,7 @@ thumbnail: /assets/img/portfolio_headers/SlowFlow-and-Dancer.jpeg
 category: SlowFlow_&_Dancer
 date: 17 January 2023
 homepage: true
-homepageOrder: 3
+homepageOrder: 6
 ---
 
 The end of 2022 saw the long-awaited release of a project close to my heart – Andreas Vollenweider’s new record ‘SlowFlow & Dancer’ 

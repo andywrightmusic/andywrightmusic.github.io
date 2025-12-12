@@ -6,7 +6,7 @@ thumbnail: /assets/img/portfolio_headers/Simply-Red-Time.jpg
 category: production_mixing
 date: 28 July 2023
 homepage: true
-homepageOrder: 1
+homepageOrder: 4
 ---
 
 <!-- With the release of the latest Simply Red album ‘Time’ fast approaching, it’s been great to see lead track ‘Better With You’ make Record of the Week at Radio 2 and the A-lists for both Radio 2 and Magic FM.
