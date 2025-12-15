@@ -4,7 +4,7 @@ title: Simply Red - Recollections
 permalink: /portfolio/simply-red-recollections/
 thumbnail: /assets/img/portfolio_headers/simply-red-recollections.png
 category: production_mixing songwriting_collaborations
-date: 07 July 2020
+date: 12 December 2025
 homepage: true
 homepageOrder: 1
 ---

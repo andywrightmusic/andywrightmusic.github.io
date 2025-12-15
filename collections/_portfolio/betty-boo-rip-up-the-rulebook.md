@@ -4,7 +4,7 @@ title: Betty Boo - Rip Up the Rulebook
 permalink: /portfolio/betty-boo-rip-up-the-rulebook/
 thumbnail: /assets/img/portfolio_headers/betty-boo-rip-up-the-rulebook.png
 category: production_mixing
-date: 29 August 2016
+date: 12 December 2025
 homepage: true
 homepageOrder: 3
 ---

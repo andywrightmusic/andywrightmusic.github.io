@@ -4,7 +4,7 @@ title: Simple Minds - Live in the City of diamonds
 permalink: /portfolio/simple-minds-live-in-the-city-of-diamonds/
 thumbnail: /assets/img/portfolio_headers/simple-minds-live-in-the-city-of-diamonds.png
 category: production_mixing
-date: 07 July 2020
+date: 12 December 2025
 homepage: true
 homepageOrder: 2
 ---
