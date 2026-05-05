@@ -4,7 +4,7 @@ title: Gianna Nannini - Sei Nel L’Anima
 permalink: /portfolio/gianna-nannini-sei-nel-l-anima/
 thumbnail: /assets/img/portfolio_headers/Gianna.jpg
 category: production_mixing songwriting_collaborations
-date: 21 April 2026
+date: 05 December 2025
 homepage: true
 homepageOrder: 4
 ---

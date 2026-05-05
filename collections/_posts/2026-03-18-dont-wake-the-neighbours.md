@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Wake the Neighbours"
-date: 2026-04-21
+date: 2026-03-18
 thumb: /assets/img/posts/Wake.jpeg
 listingExcerpt: Found a new band. Don't Wake the Neighbours are a young band, early-20s with a punk / B-52s / Rezillos vibe.
 categories:

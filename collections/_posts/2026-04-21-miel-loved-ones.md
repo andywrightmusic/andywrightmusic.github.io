@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miel - Loved Ones"
-date: 2026-03-18
+date: 2026-04-21
 thumb: /assets/img/posts/miel-love-1.png
 listingExcerpt: Following a fantastic performance at the Accor Arena in Paris at the back end of last year, Miel and I continue to collaborate in the studio and on all things Miel.
 categories:
