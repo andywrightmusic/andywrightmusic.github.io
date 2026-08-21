@@ -9,6 +9,8 @@ categories:
  - news
 ---
 
+![](/assets/img/posts/danny-clifford.jpg)
+
 <h2>Danny Clifford was there.</h2>
 For almost fifty years, I’ve found myself in rooms that most people only read about. Sometimes they’re glamorous. Sometimes they’re chaotic. Occasionally they’re unforgettable. This is one of those stories.
 
