@@ -9,12 +9,12 @@ categories:
  - news
 ---
 
-![](/assets/img/posts/danny-clifford.jpg)
+![](/assets/img/posts/danny_clifford.jpg)
 
-<strong><p>Danny Clifford was there.</p></strong>
+Danny Clifford was there.
 For almost fifty years, I’ve found myself in rooms that most people only read about. Sometimes they’re glamorous. Sometimes they’re chaotic. Occasionally they’re unforgettable. This is one of those stories.
 
-<strong><p>By three o’clock in the morning, the pub had surrendered.</p></strong>
+By three o’clock in the morning, the pub had surrendered.
 The staff had long since gone home. The regulars had drifted off into the freezing London night, leaving just two of us behind. Somewhere during the evening we’d been handed the keys to the front door, trusted to lock up when we’d eventually decided enough was enough.
 
 Looking back, that probably tells you everything you need to know about the sort of nights we used to have.
