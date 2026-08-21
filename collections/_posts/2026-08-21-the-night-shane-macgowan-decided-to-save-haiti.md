@@ -3,10 +3,10 @@ layout: post
 title:  "The Night Shane MacGowan Decided to Save Haiti"
 date: 2026-08-21 09:03:36 +0300
 thumb: /assets/img/posts/danny_clifford.jpg
+excerpt: "Danny Clifford was there. For almost fifty years, I’ve found myself in rooms that most people only read about. Sometimes they’re glamorous. Sometimes they’re chaotic. Occasionally they’re unforgettable. This is one of those stories."
 keywords: [] 
 categories:
  - press-articles
- - news
 ---
 
 ![](/assets/img/posts/danny_clifford.jpg)
@@ -192,3 +192,4 @@ I think about an empty London pub. A freezing January morning. And a friend who 
 <strong>Gavin Goldberg (left), Andy Wright (right)</strong>
 
 <strong>Author's note:</strong> The Haiti charity single "I Put a Spell on You" was produced by Andy Wright and engineered by Gavin Goldberg at Sphere Studios, Battersea. Over the years, some reports have incorrectly attributed the production to Mick Jones. Mick was an important contributor to the recording as one of the participating artists, but Andy Wright was the sole producer throughout the project.
+-- Written by Danny Clifford
