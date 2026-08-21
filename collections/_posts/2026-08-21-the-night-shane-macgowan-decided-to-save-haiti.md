@@ -2,7 +2,7 @@
 layout: post
 title:  "The Night Shane MacGowan Decided to Save Haiti"
 date: 2026-08-21 09:03:36 +0300
-thumb: /assets/img/posts/danny_clifford.png
+thumb: /assets/img/posts/danny_clifford.jpg
 keywords: [] 
 categories:
  - press-articles
