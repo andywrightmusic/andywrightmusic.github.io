@@ -192,4 +192,5 @@ I think about an empty London pub. A freezing January morning. And a friend who 
 <strong>Gavin Goldberg (left), Andy Wright (right)</strong>
 
 <strong>Author's note:</strong> The Haiti charity single "I Put a Spell on You" was produced by Andy Wright and engineered by Gavin Goldberg at Sphere Studios, Battersea. Over the years, some reports have incorrectly attributed the production to Mick Jones. Mick was an important contributor to the recording as one of the participating artists, but Andy Wright was the sole producer throughout the project.
--- Written by Danny Clifford
+
+<strong>-- Written by Danny Clifford</strong>
