@@ -72,19 +72,22 @@ Looking back now, perhaps I should have known better than to question him. Shane
 
 Once the song had been decided, the phone calls began. Shane immediately started contacting friends. He spoke to Bobby Gillespie from Primal Scream. Nick Cave.
 
-<img src="" alt="">
+![](/assets/img/posts/shane-nick-mick.jpg)
 Shane MacGowan, Mick Jones, Nick Cave
+
+![](/assets/img/posts/shane.jpg)
+Shane MacGowan
 
 And he called Cait O’Riordan. I started making a few calls myself. Chrissie Hynde.
 Paloma Faith. Eliza Doolittle. Laura White.
 
-<img src="" alt="">
+![](/assets/img/posts/glen.jpg)
 Glen Matlock
 
-<img src="" alt="">
+![](/assets/img/posts/chrissie.jpg)
 Chrissie Hynde
 
-<img src="" alt="">
+![](/assets/img/posts/laura.jpg)
 Laura White
 
 One by one, people agreed to become involved. Nobody was thinking about record sales. Nobody was talking about publicity. People simply wanted to help. The only real problem was where we were actually going to record it. Initially we’d planned to use Edwin Collins’ studio, but that arrangement unexpectedly fell through. So I picked up the phone and called someone I’d trusted for years.
@@ -181,9 +184,9 @@ Completely unpredictable. Frequently outrageous. Often hilarious. Occasionally i
 
 I think about an empty London pub. A freezing January morning. And a friend who simply wanted to help.
 
-<img src="" alt="">
+![](/assets/img/posts/spell-lyrics.jpg)
 
-<img src="" alt="">
+![](/assets/img/posts/gavin-andy.jpg)
 Gavin Goldberg (left), Andy Wright (right)
 
 <strong>Author's note:</strong> The Haiti charity single "I Put a Spell on You" was produced by Andy Wright and engineered by Gavin Goldberg at Sphere Studios, Battersea. Over the years, some reports have incorrectly attributed the production to Mick Jones. Mick was an important contributor to the recording as one of the participating artists, but Andy Wright was the sole producer throughout the project.
