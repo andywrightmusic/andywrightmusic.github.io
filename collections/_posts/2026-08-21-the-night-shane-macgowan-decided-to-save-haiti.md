@@ -11,10 +11,10 @@ categories:
 
 ![](/assets/img/posts/danny-clifford.jpg)
 
-<h2>Danny Clifford was there.</h2>
+<strong><p>Danny Clifford was there.</p></strong>
 For almost fifty years, I’ve found myself in rooms that most people only read about. Sometimes they’re glamorous. Sometimes they’re chaotic. Occasionally they’re unforgettable. This is one of those stories.
 
-<h2>By three o’clock in the morning, the pub had surrendered.</h2>
+<strong><p>By three o’clock in the morning, the pub had surrendered.</p></strong>
 The staff had long since gone home. The regulars had drifted off into the freezing London night, leaving just two of us behind. Somewhere during the evening we’d been handed the keys to the front door, trusted to lock up when we’d eventually decided enough was enough.
 
 Looking back, that probably tells you everything you need to know about the sort of nights we used to have.
@@ -75,22 +75,22 @@ Looking back now, perhaps I should have known better than to question him. Shane
 Once the song had been decided, the phone calls began. Shane immediately started contacting friends. He spoke to Bobby Gillespie from Primal Scream. Nick Cave.
 
 ![](/assets/img/posts/shane-nick-mick.jpg)
-Shane MacGowan, Mick Jones, Nick Cave
+<strong>Shane MacGowan, Mick Jones, Nick Cave</strong>
 
 ![](/assets/img/posts/shane.jpg)
-Shane MacGowan
+<strong>Shane MacGowan</strong>
 
 And he called Cait O’Riordan. I started making a few calls myself. Chrissie Hynde.
 Paloma Faith. Eliza Doolittle. Laura White.
 
 ![](/assets/img/posts/glen.jpg)
-Glen Matlock
+<strong>Glen Matlock</strong>
 
 ![](/assets/img/posts/chrissie.jpg)
-Chrissie Hynde
+<strong>Chrissie Hynde</strong>
 
 ![](/assets/img/posts/laura.jpg)
-Laura White
+<strong>Laura White</strong>
 
 One by one, people agreed to become involved. Nobody was thinking about record sales. Nobody was talking about publicity. People simply wanted to help. The only real problem was where we were actually going to record it. Initially we’d planned to use Edwin Collins’ studio, but that arrangement unexpectedly fell through. So I picked up the phone and called someone I’d trusted for years.
 
@@ -189,6 +189,6 @@ I think about an empty London pub. A freezing January morning. And a friend who 
 ![](/assets/img/posts/spell-lyrics.jpg)
 
 ![](/assets/img/posts/gavin-andy.jpg)
-Gavin Goldberg (left), Andy Wright (right)
+<strong>Gavin Goldberg (left), Andy Wright (right)</strong>
 
 <strong>Author's note:</strong> The Haiti charity single "I Put a Spell on You" was produced by Andy Wright and engineered by Gavin Goldberg at Sphere Studios, Battersea. Over the years, some reports have incorrectly attributed the production to Mick Jones. Mick was an important contributor to the recording as one of the participating artists, but Andy Wright was the sole producer throughout the project.
