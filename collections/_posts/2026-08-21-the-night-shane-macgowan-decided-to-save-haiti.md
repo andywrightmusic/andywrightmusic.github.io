@@ -173,6 +173,7 @@ Only Shane MacGowan could have delivered a line like that with a completely stra
 
 Needless to say, both my boys gave their hands another extremely thorough wash. Meanwhile, another old friend of Shane’s was contributing from the other side of the Atlantic. Johnny Depp recorded his guitar parts in America before sending them across to London to become part of the finished record. Looking around the studio that day, it struck me just how extraordinary the whole thing really was. Different generations.
 Different musical backgrounds. Different personalities. All giving up their time because one man had sat in an empty London pub a few nights earlier and decided he wanted to help complete strangers living thousands of miles away. That’s quite a thought.
+
 The single, if we’re being completely honest, never really stood much chance commercially. Simon Cowell’s charity record quite rightly dominated the headlines. It had enormous backing, huge publicity and became the project everyone associated with raising money for Haiti. I’d predicted exactly that in the pub. Shane had simply smiled and carried on regardless.
 
 Looking back now, I realise he wasn’t trying to compete with anybody. He wasn’t trying to top the charts. He wasn’t trying to prove a point. He simply believed that if he could do something to help, then he should. That was enough.
