@@ -8,7 +8,7 @@ date: 19 November 2026
 homepage: true
 homepageOrder: 8
 ---
-![Simple Minds Live Concert](/assets/img/portfolio_headers/rebecca-poole-play-on.png)
+![Rebecca Poole Play On](/assets/img/portfolio_headers/rebecca-poole-play-on.png)
 
 ‘Play On’ is the fourth album Rebecca has made with me, two as Purdy, one as a collaborative songwriter, and this one – where as well as producing, I’ve written many of the songs together with her. 
 
