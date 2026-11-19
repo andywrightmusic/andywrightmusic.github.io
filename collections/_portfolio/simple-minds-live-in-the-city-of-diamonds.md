@@ -6,7 +6,7 @@ thumbnail: /assets/img/portfolio_headers/simple-minds-live-in-the-city-of-diamon
 category: production_mixing
 date: 12 December 2025
 homepage: true
-homepageOrder: 2
+homepageOrder: 4
 ---
 ![Simple Minds Live Concert](/assets/img/portfolio_headers/Simple-Minds-in-Amsterdam.png)
 
