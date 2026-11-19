@@ -6,7 +6,7 @@ thumbnail: /assets/img/portfolio_headers/simply-red-recollections.png
 category: production_mixing songwriting_collaborations
 date: 12 December 2025
 homepage: true
-homepageOrder: 1
+homepageOrder: 2
 ---
 
 What a huge honour to be tasked with producing this recording – a collection of unforgettable songs. Among the great pleasures for me in revisiting the work has been to discover in even more detail material from the first four albums - which I wasn’t a part of at the time.  The songs speak for themselves, and they’re all now lodged in the minds of music lovers everywhere – so representing that in the best and most faithfull way was at the very top of our wishlist.
