@@ -8,7 +8,7 @@ date: 19 November 2026
 homepage: true
 homepageOrder: 3
 ---
-![Simple Minds Live Concert](/assets/img/portfolio_headers/gilbert-o-sullivan-on-the-record.png)
+![Simple Minds Live Concert](/assets/img/portfolio_headers/gilbert-o-sullivan-on-the-record-thumb.png)
 
 It’s an honour to be at the helm for a Gilbert O’Sullivan album… but a particularly special honour to be there for three! On the Record is another collection of finely honed songs written by a master craftsman. Gilbert writes with absolute dedication, working a ‘9-5’ in his music room at home in Jersey for as many months as it takes to perfect a set of songs. 
 
