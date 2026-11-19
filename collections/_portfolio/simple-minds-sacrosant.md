@@ -8,7 +8,7 @@ date: 19 November 2026
 homepage: true
 homepageOrder: 1
 ---
-![Simple Minds Live Concert](/assets/img/portfolio_headers/simple-minds-sacrosant.png)
+![Simple Minds Live Concert](/assets/img/portfolio_headers/simple-minds-sacrosant-thumb.png)
 
 Sacrosanct is our fifth studio album with Simple Minds. We also mixed the live albums ‘Live in the City of Angels’ and ‘Live in the City of Diamonds’, so for Gavin and me, this is a treasured achievement. 
 
