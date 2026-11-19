@@ -2,7 +2,7 @@
 layout: portfolioItem
 title: Rebecca Poole - Play On
 permalink: /portfolio/rebecca-poole-play-on
-thumbnail: /assets/img/portfolio_headers/rebecca-poole-play-on.png
+thumbnail: /assets/img/portfolio_headers/rebecca-poole-play-on-thumb.png
 category: production_mixing songwriting_collaborations
 date: 19 November 2026
 homepage: true
